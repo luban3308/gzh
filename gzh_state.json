@@ -71,11 +71,23 @@
       "url": "https://www.163.com/dy/article/L0GBAJFC0553JMK2.html",
       "pub_time": "2026-06-28 07:36",
       "fetched_at": "2026-06-28T13:00:08.074614"
+    },
+    "https://www.163.com/dy/article/L0JERA1H0553JMK2.html": {
+      "title": "35岁之前被当炮灰，35岁之后还可以被毕业当人才",
+      "url": "https://www.163.com/dy/article/L0JERA1H0553JMK2.html",
+      "pub_time": "2026-06-29 12:35",
+      "fetched_at": "2026-06-29T09:43:59.199236"
+    },
+    "https://www.163.com/dy/article/L0ISL29F0553JMK2.html": {
+      "title": "考上985的电子，意味着你有很小的概率可以去研发芯片",
+      "url": "https://www.163.com/dy/article/L0ISL29F0553JMK2.html",
+      "pub_time": "2026-06-29 07:20",
+      "fetched_at": "2026-06-29T09:44:00.130552"
     }
   },
   "last_check": {
-    "time": "2026-06-28T23:13:58.940901",
-    "saved": 0,
+    "time": "2026-06-29T09:43:55.203939",
+    "saved": 2,
     "errors": 0
   }
 }

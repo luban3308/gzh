@@ -1,117 +1,117 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-09",
   "repos": [
     {
-      "name": "asgeirtj//system_prompts_leaks",
-      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "lang": "JavaScript",
-      "stars": "52,266",
-      "today": "1,378 stars today"
+      "name": "MadsLorentzen//ai-job-search",
+      "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "lang": "TypeScript",
+      "stars": "16,762",
+      "today": "5,079 stars today"
     },
     {
       "name": "addyosmani//agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
       "lang": "JavaScript",
-      "stars": "71,429",
-      "today": "1,112 stars today"
-    },
-    {
-      "name": "Zackriya-Solutions//meetily",
-      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "lang": "Rust",
-      "stars": "19,954",
-      "today": "2,494 stars today"
+      "stars": "75,271",
+      "today": "1,297 stars today"
     },
     {
       "name": "ruvnet//RuView",
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "lang": "Rust",
-      "stars": "77,985",
-      "today": "470 stars today"
+      "stars": "79,476",
+      "today": "799 stars today"
     },
     {
-      "name": "Leonxlnx//taste-skill",
-      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "lang": "JavaScript",
-      "stars": "59,651",
-      "today": "1,458 stars today"
+      "name": "TencentCloud//TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "lang": "TypeScript",
+      "stars": "7,933",
+      "today": "318 stars today"
     },
     {
-      "name": "alirezarezvani//claude-skills",
-      "desc": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "lang": "Python",
-      "stars": "21,409",
-      "today": "610 stars today"
-    },
-    {
-      "name": "openai//codex-plugin-cc",
-      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
-      "lang": "JavaScript",
-      "stars": "26,483",
-      "today": "906 stars today"
+      "name": "prisma//prisma",
+      "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "lang": "TypeScript",
+      "stars": "46,724",
+      "today": "46 stars today"
     },
     {
       "name": "mvanhorn//last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "lang": "Python",
-      "stars": "50,094",
-      "today": "458 stars today"
+      "stars": "51,073",
+      "today": "352 stars today"
     },
     {
-      "name": "ogulcancelik//herdr",
-      "desc": "agent multiplexer that lives in your terminal.",
-      "lang": "Rust",
-      "stars": "13,148",
-      "today": "779 stars today"
+      "name": "argoproj//argo-cd",
+      "desc": "Declarative Continuous Deployment for Kubernetes",
+      "lang": "Go",
+      "stars": "23,508",
+      "today": "29 stars today"
     },
     {
-      "name": "bradautomates//claude-video",
-      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "lang": "Python",
-      "stars": "4,670",
-      "today": "427 stars today"
+      "name": "iOfficeAI//OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "lang": "C#",
+      "stars": "12,764",
+      "today": "1,717 stars today"
     },
     {
-      "name": "karakeep-app//karakeep",
-      "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
-      "lang": "TypeScript",
-      "stars": "27,086",
-      "today": "199 stars today"
+      "name": "asgeirtj//system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars": "54,633",
+      "today": "1,218 stars today"
     },
     {
-      "name": "firecrawl//firecrawl",
-      "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "lang": "TypeScript",
-      "stars": "146,829",
-      "today": "867 stars today"
-    },
-    {
-      "name": "steipete//CodexBar",
-      "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "lang": "Swift",
-      "stars": "16,882",
-      "today": "598 stars today"
+      "name": "obra//superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars": "250,381",
+      "today": "1,116 stars today"
     },
     {
       "name": "alibaba//zvec",
       "desc": "A lightweight, lightning-fast, in-process vector database",
       "lang": "C++",
-      "stars": "13,760",
-      "today": "382 stars today"
+      "stars": "14,590",
+      "today": "395 stars today"
     },
     {
-      "name": "sindresorhus//awesome",
-      "desc": "😎 Awesome lists about all kinds of interesting topics",
-      "lang": "",
-      "stars": "482,618",
-      "today": "345 stars today"
+      "name": "Diolinux//PhotoGIMP",
+      "desc": "A Patch for GIMP 3+ for Photoshop Users",
+      "lang": "CSS",
+      "stars": "15,253",
+      "today": "1,125 stars today"
     },
     {
-      "name": "gastownhall//gastown",
-      "desc": "Gas Town - multi-agent workspace manager",
-      "lang": "Go",
-      "stars": "16,822",
-      "today": "291 stars today"
+      "name": "wonderwhy-er//DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "lang": "TypeScript",
+      "stars": "6,451",
+      "today": "28 stars today"
+    },
+    {
+      "name": "huxingyi//autoremesher",
+      "desc": "Automatic quad remeshing tool",
+      "lang": "C++",
+      "stars": "2,171",
+      "today": "296 stars today"
+    },
+    {
+      "name": "bradautomates//claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars": "6,361",
+      "today": "951 stars today"
+    },
+    {
+      "name": "TencentCloud//CubeSandbox",
+      "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "lang": "Rust",
+      "stars": "9,186",
+      "today": "564 stars today"
     }
   ]
 }

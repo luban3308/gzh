@@ -1,117 +1,103 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "repos": [
     {
-      "name": "MadsLorentzen//ai-job-search",
-      "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "lang": "TypeScript",
-      "stars": "16,762",
-      "today": "5,079 stars today"
+      "name": "SmartlyDressedGames//U3-SDK",
+      "desc": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "lang": "C#",
+      "stars": "2,171",
+      "today": "524 stars today"
     },
     {
       "name": "addyosmani//agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
       "lang": "JavaScript",
-      "stars": "75,271",
-      "today": "1,297 stars today"
+      "stars": "76,191",
+      "today": "2,554 stars today"
     },
     {
-      "name": "ruvnet//RuView",
-      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "lang": "Rust",
-      "stars": "79,476",
-      "today": "799 stars today"
-    },
-    {
-      "name": "TencentCloud//TencentDB-Agent-Memory",
-      "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "lang": "TypeScript",
-      "stars": "7,933",
-      "today": "318 stars today"
-    },
-    {
-      "name": "prisma//prisma",
-      "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "lang": "TypeScript",
-      "stars": "46,724",
-      "today": "46 stars today"
-    },
-    {
-      "name": "mvanhorn//last30days-skill",
-      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "lang": "Python",
-      "stars": "51,073",
-      "today": "352 stars today"
-    },
-    {
-      "name": "argoproj//argo-cd",
-      "desc": "Declarative Continuous Deployment for Kubernetes",
-      "lang": "Go",
-      "stars": "23,508",
-      "today": "29 stars today"
+      "name": "VoltAgent//awesome-design-md",
+      "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "lang": "",
+      "stars": "100,151",
+      "today": "1,391 stars today"
     },
     {
       "name": "iOfficeAI//OfficeCLI",
       "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "lang": "C#",
-      "stars": "12,764",
-      "today": "1,717 stars today"
-    },
-    {
-      "name": "asgeirtj//system_prompts_leaks",
-      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "lang": "JavaScript",
-      "stars": "54,633",
-      "today": "1,218 stars today"
-    },
-    {
-      "name": "obra//superpowers",
-      "desc": "An agentic skills framework & software development methodology that works.",
-      "lang": "Shell",
-      "stars": "250,381",
-      "today": "1,116 stars today"
-    },
-    {
-      "name": "alibaba//zvec",
-      "desc": "A lightweight, lightning-fast, in-process vector database",
-      "lang": "C++",
-      "stars": "14,590",
-      "today": "395 stars today"
-    },
-    {
-      "name": "Diolinux//PhotoGIMP",
-      "desc": "A Patch for GIMP 3+ for Photoshop Users",
-      "lang": "CSS",
-      "stars": "15,253",
-      "today": "1,125 stars today"
+      "stars": "13,799",
+      "today": "1,929 stars today"
     },
     {
       "name": "wonderwhy-er//DesktopCommanderMCP",
       "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "lang": "TypeScript",
-      "stars": "6,451",
-      "today": "28 stars today"
+      "stars": "6,625",
+      "today": "185 stars today"
+    },
+    {
+      "name": "anthropics//claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "lang": "Jupyter Notebook",
+      "stars": "47,297",
+      "today": "194 stars today"
+    },
+    {
+      "name": "vxcontrol//pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "lang": "Go",
+      "stars": "19,614",
+      "today": "535 stars today"
+    },
+    {
+      "name": "unclecode//crawl4ai",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "lang": "Python",
+      "stars": "72,001",
+      "today": "215 stars today"
+    },
+    {
+      "name": "imthenachoman//How-To-Secure-A-Linux-Server",
+      "desc": "An evolving how-to guide for securing a Linux server.",
+      "lang": "",
+      "stars": "29,227",
+      "today": "243 stars today"
     },
     {
       "name": "huxingyi//autoremesher",
       "desc": "Automatic quad remeshing tool",
       "lang": "C++",
-      "stars": "2,171",
-      "today": "296 stars today"
+      "stars": "2,430",
+      "today": "403 stars today"
     },
     {
       "name": "bradautomates//claude-video",
       "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "lang": "Python",
-      "stars": "6,361",
-      "today": "951 stars today"
+      "stars": "6,861",
+      "today": "718 stars today"
     },
     {
-      "name": "TencentCloud//CubeSandbox",
-      "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "lang": "Rust",
-      "stars": "9,186",
-      "today": "564 stars today"
+      "name": "prisma//prisma",
+      "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "lang": "TypeScript",
+      "stars": "46,970",
+      "today": "376 stars today"
+    },
+    {
+      "name": "kyutai-labs//pocket-tts",
+      "desc": "A TTS that fits in your CPU (and pocket)",
+      "lang": "Python",
+      "stars": "7,096",
+      "today": "235 stars today"
+    },
+    {
+      "name": "asgeirtj//system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars": "55,357",
+      "today": "1,125 stars today"
     }
   ]
 }

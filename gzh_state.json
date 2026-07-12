@@ -203,11 +203,29 @@
       "url": "https://www.163.com/dy/article/L1HRLC7E0553JMK2.html",
       "pub_time": "2026-07-11 08:01",
       "fetched_at": "2026-07-11T08:00:07.833689"
+    },
+    "https://www.163.com/dy/article/L1KQDRQF0553JMK2.html": {
+      "title": "你说的很对，很多岗位其实没有存在的必要，但为啥存在呢？",
+      "url": "https://www.163.com/dy/article/L1KQDRQF0553JMK2.html",
+      "pub_time": "2026-07-12 11:33",
+      "fetched_at": "2026-07-12T08:00:07.526866"
+    },
+    "https://www.163.com/dy/article/L1KEUM4K0553JMK2.html": {
+      "title": "你不是没看破，你只是说了不算",
+      "url": "https://www.163.com/dy/article/L1KEUM4K0553JMK2.html",
+      "pub_time": "2026-07-12 08:13",
+      "fetched_at": "2026-07-12T08:00:08.455138"
+    },
+    "https://www.163.com/dy/article/L1IE0DS30553JMK2.html": {
+      "title": "我们不是替马斯克算账，我们是替自己算账",
+      "url": "https://www.163.com/dy/article/L1IE0DS30553JMK2.html",
+      "pub_time": "2026-07-11 13:16",
+      "fetched_at": "2026-07-12T08:00:09.410772"
     }
   },
   "last_check": {
-    "time": "2026-07-11T08:00:03.329990",
-    "saved": 1,
+    "time": "2026-07-12T08:00:03.585131",
+    "saved": 3,
     "errors": 0
   }
 }

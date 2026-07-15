@@ -245,11 +245,17 @@
       "url": "https://www.163.com/dy/article/L1PH3DS10553JMK2.html",
       "pub_time": "2026-07-14 07:26",
       "fetched_at": "2026-07-14T08:00:09.242837"
+    },
+    "https://www.163.com/dy/article/L1SFJH8R0553JMK2.html": {
+      "title": "读书不能改变阶层，读书还有什么意义？",
+      "url": "https://www.163.com/dy/article/L1SFJH8R0553JMK2.html",
+      "pub_time": "2026-07-15 10:56",
+      "fetched_at": "2026-07-15T08:00:07.599965"
     }
   },
   "last_check": {
-    "time": "2026-07-14T08:00:03.644921",
-    "saved": 2,
+    "time": "2026-07-15T08:00:03.361473",
+    "saved": 1,
     "errors": 0
   }
 }

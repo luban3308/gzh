@@ -251,11 +251,23 @@
       "url": "https://www.163.com/dy/article/L1SFJH8R0553JMK2.html",
       "pub_time": "2026-07-15 10:56",
       "fetched_at": "2026-07-15T08:00:07.599965"
+    },
+    "https://www.163.com/dy/article/L1V3ALTL0553JMK2.html": {
+      "title": "做事的，为什么斗不过那些做人的？",
+      "url": "https://www.163.com/dy/article/L1V3ALTL0553JMK2.html",
+      "pub_time": "2026-07-16 11:25",
+      "fetched_at": "2026-07-16T08:00:08.475463"
+    },
+    "https://www.163.com/dy/article/L1T7CCUP0553JMK2.html": {
+      "title": "你孩子真要是开了眼界，后面的日子该咋过？",
+      "url": "https://www.163.com/dy/article/L1T7CCUP0553JMK2.html",
+      "pub_time": "2026-07-15 17:52",
+      "fetched_at": "2026-07-16T08:00:09.382380"
     }
   },
   "last_check": {
-    "time": "2026-07-15T08:00:03.361473",
-    "saved": 1,
+    "time": "2026-07-16T08:00:04.131827",
+    "saved": 2,
     "errors": 0
   }
 }

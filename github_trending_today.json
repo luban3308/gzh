@@ -1,103 +1,82 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-19",
   "repos": [
     {
-      "name": "OpenCut-app//OpenCut",
-      "desc": "The open-source CapCut alternative",
-      "lang": "TypeScript",
-      "stars": "72,685",
-      "today": "1,664 stars today"
-    },
-    {
-      "name": "Nutlope//hallmark",
-      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "lang": "CSS",
-      "stars": "9,377",
-      "today": "1,277 stars today"
-    },
-    {
-      "name": "mattpocock//skills",
-      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-      "lang": "Shell",
-      "stars": "172,885",
-      "today": "2,130 stars today"
-    },
-    {
-      "name": "moeru-ai//airi",
-      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "lang": "TypeScript",
-      "stars": "42,650",
-      "today": "110 stars today"
-    },
-    {
-      "name": "Dicklesworthstone//destructive_command_guard",
-      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "lang": "Rust",
-      "stars": "4,869",
-      "today": "471 stars today"
-    },
-    {
-      "name": "HKUDS//Vibe-Trading",
-      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "name": "Robbyant//lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "lang": "Python",
-      "stars": "23,936",
-      "today": "915 stars today"
+      "stars": "13,145",
+      "today": "831 stars today"
     },
     {
-      "name": "openinterpreter//openinterpreter",
-      "desc": "A coding agent for low-cost models",
-      "lang": "Rust",
-      "stars": "65,651",
-      "today": "299 stars today"
-    },
-    {
-      "name": "HKUDS//DeepTutor",
-      "desc": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "name": "apache//ossie",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "lang": "Python",
-      "stars": "26,495",
-      "today": "172 stars today"
+      "stars": "1,323",
+      "today": "47 stars today"
     },
     {
-      "name": "HenryNdubuaku//maths-cs-ai-compendium",
-      "desc": "Become a cracked AI/ML Research Engineer",
-      "lang": "TypeScript",
-      "stars": "6,071",
-      "today": "725 stars today"
-    },
-    {
-      "name": "injaneity//pi-computer-use",
-      "desc": "Let Pi control your apps on MacOS & Windows",
-      "lang": "TypeScript",
-      "stars": "1,312",
-      "today": "103 stars today"
-    },
-    {
-      "name": "Shubhamsaboo//awesome-llm-apps",
-      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "name": "PostHog//posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "lang": "Python",
-      "stars": "122,177",
-      "today": "1,236 stars today"
+      "stars": "36,684",
+      "today": "338 stars today"
     },
     {
-      "name": "coreyhaines31//marketingskills",
-      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "lang": "JavaScript",
-      "stars": "39,950",
-      "today": "340 stars today"
+      "name": "ibelick//ui-skills",
+      "desc": "Skills for Design Engineers",
+      "lang": "TypeScript",
+      "stars": "5,182",
+      "today": "123 stars today"
     },
     {
-      "name": "YimMenu//YimMenuV2",
-      "desc": "Experimental menu for GTA 5: Enhanced",
-      "lang": "C++",
-      "stars": "1,461",
-      "today": "38 stars today"
+      "name": "rohitg00//ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars": "39,230",
+      "today": "191 stars today"
     },
     {
-      "name": "hasaneyldrm//exercises-dataset",
-      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "lang": "HTML",
-      "stars": "14,558",
-      "today": "949 stars today"
+      "name": "tirth8205//code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars": "20,315",
+      "today": "355 stars today"
+    },
+    {
+      "name": "elder-plinius//G0DM0D3",
+      "desc": "LIBERATED AI CHAT",
+      "lang": "TypeScript",
+      "stars": "9,572",
+      "today": "69 stars today"
+    },
+    {
+      "name": "lyogavin//airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars": "23,424",
+      "today": "161 stars today"
+    },
+    {
+      "name": "KnockOutEZ//wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "lang": "TypeScript",
+      "stars": "1,377",
+      "today": "203 stars today"
+    },
+    {
+      "name": "codecrafters-io//build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars": "528,444",
+      "today": "1,126 stars today"
+    },
+    {
+      "name": "MoonshotAI//kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "lang": "Python",
+      "stars": "9,587",
+      "today": "65 stars today"
     }
   ]
 }

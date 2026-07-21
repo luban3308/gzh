@@ -311,11 +311,23 @@
       "url": "https://www.163.com/dy/article/L26V97S10553JMK2.html",
       "pub_time": "2026-07-19 12:45",
       "fetched_at": "2026-07-20T08:00:09.306168"
+    },
+    "https://www.163.com/dy/article/L2BVA6LS0553JMK2.html": {
+      "title": "富贵不是险中求，而是从算法中求",
+      "url": "https://www.163.com/dy/article/L2BVA6LS0553JMK2.html",
+      "pub_time": "2026-07-21 11:21",
+      "fetched_at": "2026-07-21T08:00:07.957117"
+    },
+    "https://www.163.com/dy/article/L2BKTN990553JMK2.html": {
+      "title": "不要让孩子学文科，除非他没得选",
+      "url": "https://www.163.com/dy/article/L2BKTN990553JMK2.html",
+      "pub_time": "2026-07-21 08:20",
+      "fetched_at": "2026-07-21T08:00:08.963496"
     }
   },
   "last_check": {
-    "time": "2026-07-20T08:00:03.366245",
-    "saved": 3,
+    "time": "2026-07-21T08:00:03.546432",
+    "saved": 2,
     "errors": 0
   }
 }

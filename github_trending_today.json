@@ -1,82 +1,138 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "repos": [
     {
-      "name": "Robbyant//lingbot-map",
-      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "name": "bojieli//ai-agent-book",
+      "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "lang": "Python",
-      "stars": "13,145",
-      "today": "831 stars today"
-    },
-    {
-      "name": "apache//ossie",
-      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "lang": "Python",
-      "stars": "1,323",
-      "today": "47 stars today"
-    },
-    {
-      "name": "PostHog//posthog",
-      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "lang": "Python",
-      "stars": "36,684",
-      "today": "338 stars today"
-    },
-    {
-      "name": "ibelick//ui-skills",
-      "desc": "Skills for Design Engineers",
-      "lang": "TypeScript",
-      "stars": "5,182",
-      "today": "123 stars today"
-    },
-    {
-      "name": "rohitg00//ai-engineering-from-scratch",
-      "desc": "Learn it. Build it. Ship it for others.",
-      "lang": "Python",
-      "stars": "39,230",
-      "today": "191 stars today"
+      "stars": "7,457",
+      "today": "1,734 stars today"
     },
     {
       "name": "tirth8205//code-review-graph",
       "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "lang": "Python",
-      "stars": "20,315",
-      "today": "355 stars today"
+      "stars": "21,815",
+      "today": "663 stars today"
     },
     {
-      "name": "elder-plinius//G0DM0D3",
-      "desc": "LIBERATED AI CHAT",
+      "name": "kvcache-ai//ktransformers",
+      "desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "lang": "Python",
+      "stars": "18,498",
+      "today": "360 stars today"
+    },
+    {
+      "name": "rohitg00//ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars": "39,945",
+      "today": "501 stars today"
+    },
+    {
+      "name": "jamiepine//voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
       "lang": "TypeScript",
-      "stars": "9,572",
-      "today": "69 stars today"
-    },
-    {
-      "name": "lyogavin//airllm",
-      "desc": "AirLLM 70B inference with single 4GB GPU",
-      "lang": "Jupyter Notebook",
-      "stars": "23,424",
-      "today": "161 stars today"
+      "stars": "43,613",
+      "today": "610 stars today"
     },
     {
       "name": "KnockOutEZ//wigolo",
       "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "lang": "TypeScript",
-      "stars": "1,377",
-      "today": "203 stars today"
+      "stars": "2,058",
+      "today": "595 stars today"
     },
     {
-      "name": "codecrafters-io//build-your-own-x",
-      "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "lang": "Markdown",
-      "stars": "528,444",
-      "today": "1,126 stars today"
+      "name": "andrewrabert//jellium-desktop",
+      "desc": "An unofficial desktop client for Jellyfin",
+      "lang": "Rust",
+      "stars": "1,344",
+      "today": "43 stars today"
+    },
+    {
+      "name": "github//copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "lang": "Java",
+      "stars": "10,002",
+      "today": "39 stars today"
+    },
+    {
+      "name": "PostHog//posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars": "37,023",
+      "today": "411 stars today"
+    },
+    {
+      "name": "microsoft//terminal",
+      "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "lang": "C++",
+      "stars": "104,245",
+      "today": "59 stars today"
+    },
+    {
+      "name": "AstrBotDevs//AstrBot",
+      "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "lang": "Python",
+      "stars": "36,794",
+      "today": "83 stars today"
+    },
+    {
+      "name": "1jehuang//jcode",
+      "desc": "Coding Agent Harness",
+      "lang": "Rust",
+      "stars": "9,077",
+      "today": "235 stars today"
+    },
+    {
+      "name": "trycua//cua",
+      "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "lang": "HTML",
+      "stars": "20,294",
+      "today": "64 stars today"
     },
     {
       "name": "MoonshotAI//kimi-cli",
       "desc": "Kimi Code CLI is your next CLI agent.",
       "lang": "Python",
-      "stars": "9,587",
-      "today": "65 stars today"
+      "stars": "9,997",
+      "today": "410 stars today"
+    },
+    {
+      "name": "Flowseal//zapret-discord-youtube",
+      "desc": "",
+      "lang": "Batchfile",
+      "stars": "31,054",
+      "today": "106 stars today"
+    },
+    {
+      "name": "codecrafters-io//build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars": "529,102",
+      "today": "754 stars today"
+    },
+    {
+      "name": "lyogavin//airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars": "23,727",
+      "today": "358 stars today"
+    },
+    {
+      "name": "Canner//WrenAI",
+      "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "lang": "Python",
+      "stars": "16,324",
+      "today": "121 stars today"
+    },
+    {
+      "name": "PKUFlyingPig//cs-self-learning",
+      "desc": "计算机自学指南",
+      "lang": "HTML",
+      "stars": "74,296",
+      "today": "134 stars today"
     }
   ]
 }

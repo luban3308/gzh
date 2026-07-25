@@ -335,11 +335,17 @@
       "url": "https://www.163.com/dy/article/L2E4TKB20553JMK2.html",
       "pub_time": "2026-07-22 07:37",
       "fetched_at": "2026-07-22T11:15:38.906821"
+    },
+    "https://www.163.com/dy/article/L2LSIJIO0553JMK2.html": {
+      "title": "你是学了很多谋生的技能，但很可惜，都是基于平台之下的",
+      "url": "https://www.163.com/dy/article/L2LSIJIO0553JMK2.html",
+      "pub_time": "2026-07-25 07:47",
+      "fetched_at": "2026-07-25T08:08:18.524735"
     }
   },
   "last_check": {
-    "time": "2026-07-22T11:15:32.629709",
-    "saved": 2,
+    "time": "2026-07-25T08:08:14.285145",
+    "saved": 1,
     "errors": 0
   }
 }

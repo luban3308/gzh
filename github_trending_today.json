@@ -1,145 +1,110 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-24",
   "repos": [
+    {
+      "name": "block//buzz",
+      "desc": "A hive mind communication platform",
+      "lang": "Rust",
+      "stars": "7,690",
+      "today": "2,162 stars today"
+    },
     {
       "name": "koala73//worldmonitor",
       "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "lang": "TypeScript",
-      "stars": "66,557",
-      "today": "1,295 stars today"
+      "stars": "72,180",
+      "today": "3,175 stars today"
     },
     {
-      "name": "bojieli//ai-agent-book",
-      "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "name": "shiyu-coder//Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
       "lang": "Python",
-      "stars": "16,005",
-      "today": "4,624 stars today"
+      "stars": "33,220",
+      "today": "401 stars today"
     },
     {
-      "name": "tirth8205//code-review-graph",
-      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "lang": "Python",
-      "stars": "24,859",
-      "today": "1,925 stars today"
-    },
-    {
-      "name": "earthtojake//text-to-cad",
-      "desc": "A collection of agent skills for CAD, robotics and hardware design",
-      "lang": "JavaScript",
-      "stars": "9,362",
-      "today": "291 stars today"
-    },
-    {
-      "name": "1jehuang//jcode",
-      "desc": "The most intelligent agent harness for code",
+      "name": "Pumpkin-MC//Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
       "lang": "Rust",
-      "stars": "10,496",
-      "today": "843 stars today"
+      "stars": "9,051",
+      "today": "565 stars today"
     },
     {
-      "name": "oblien//openship",
-      "desc": "Self-hosted deployment platform",
-      "lang": "TypeScript",
-      "stars": "6,532",
-      "today": "1,562 stars today"
-    },
-    {
-      "name": "AstrBotDevs//AstrBot",
-      "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "lang": "Python",
-      "stars": "37,601",
-      "today": "416 stars today"
-    },
-    {
-      "name": "every-app//open-seo",
-      "desc": "Open source alternative to Semrush and Ahrefs",
-      "lang": "TypeScript",
-      "stars": "6,723",
-      "today": "849 stars today"
-    },
-    {
-      "name": "tradesdontlie//tradingview-mcp",
-      "desc": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "name": "citrolabs//ego-lite",
+      "desc": "The best browser for both you and your AI agents work in parallel.",
       "lang": "JavaScript",
-      "stars": "4,945",
-      "today": "114 stars today"
-    },
-    {
-      "name": "AlexsJones//llmfit",
-      "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "lang": "Rust",
-      "stars": "30,331",
-      "today": "129 stars today"
-    },
-    {
-      "name": "hyprwm//Hyprland",
-      "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "lang": "C++",
-      "stars": "37,116",
-      "today": "58 stars today"
+      "stars": "1,930",
+      "today": "247 stars today"
     },
     {
       "name": "chrislgarry//Apollo-11",
       "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "lang": "Assembly",
-      "stars": "70,108",
-      "today": "1,235 stars today"
-    },
-    {
-      "name": "DioxusLabs//dioxus",
-      "desc": "Fullstack app framework for web, desktop, and mobile.",
-      "lang": "Rust",
-      "stars": "37,776",
-      "today": "271 stars today"
-    },
-    {
-      "name": "langchain-ai//open_deep_research",
-      "desc": "",
-      "lang": "Python",
-      "stars": "12,316",
-      "today": "23 stars today"
+      "stars": "71,196",
+      "today": "592 stars today"
     },
     {
       "name": "diegosouzapw//OmniRoute",
-      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "lang": "TypeScript",
-      "stars": "24,023",
-      "today": "2,034 stars today"
+      "stars": "27,689",
+      "today": "1,929 stars today"
+    },
+    {
+      "name": "ComposioHQ//awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars": "69,614",
+      "today": "636 stars today"
+    },
+    {
+      "name": "earthtojake//text-to-cad",
+      "desc": "A collection of agent skills for CAD, robotics and hardware design",
+      "lang": "JavaScript",
+      "stars": "10,175",
+      "today": "230 stars today"
     },
     {
       "name": "agegr//pi-web",
       "desc": "Web UI for the pi coding agent",
       "lang": "TypeScript",
-      "stars": "1,843",
-      "today": "298 stars today"
+      "stars": "2,484",
+      "today": "315 stars today"
     },
     {
-      "name": "schollz//croc",
-      "desc": "Easily and securely send things from one computer to another 🐊 📦",
+      "name": "alibaba//open-code-review",
+      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "lang": "Go",
-      "stars": "36,998",
-      "today": "361 stars today"
+      "stars": "11,879",
+      "today": "180 stars today"
     },
     {
-      "name": "microsoft//Ontology-Playground",
-      "desc": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "name": "ruvnet//RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars": "85,426",
+      "today": "1,708 stars today"
+    },
+    {
+      "name": "likec4//likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "lang": "TypeScript",
-      "stars": "2,082",
-      "today": "355 stars today"
+      "stars": "4,800",
+      "today": "472 stars today"
     },
     {
-      "name": "dottxt-ai//outlines",
-      "desc": "Structured Outputs",
-      "lang": "Python",
-      "stars": "14,929",
-      "today": "65 stars today"
+      "name": "Automattic//harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "lang": "Rust",
+      "stars": "12,536",
+      "today": "624 stars today"
     },
     {
-      "name": "KnockOutEZ//wigolo",
-      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "lang": "TypeScript",
-      "stars": "3,290",
-      "today": "642 stars today"
+      "name": "jellyfin//jellyfin",
+      "desc": "The Free Software Media System - Server Backend & API",
+      "lang": "C#",
+      "stars": "54,823",
+      "today": "66 stars today"
     }
   ]
 }

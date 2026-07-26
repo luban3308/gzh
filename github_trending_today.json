@@ -1,110 +1,117 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "repos": [
     {
       "name": "block//buzz",
       "desc": "A hive mind communication platform",
       "lang": "Rust",
-      "stars": "7,690",
-      "today": "2,162 stars today"
+      "stars": "10,474",
+      "today": "3,270 stars today"
     },
     {
       "name": "koala73//worldmonitor",
       "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "lang": "TypeScript",
-      "stars": "72,180",
-      "today": "3,175 stars today"
-    },
-    {
-      "name": "shiyu-coder//Kronos",
-      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "lang": "Python",
-      "stars": "33,220",
-      "today": "401 stars today"
-    },
-    {
-      "name": "Pumpkin-MC//Pumpkin",
-      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "lang": "Rust",
-      "stars": "9,051",
-      "today": "565 stars today"
-    },
-    {
-      "name": "citrolabs//ego-lite",
-      "desc": "The best browser for both you and your AI agents work in parallel.",
-      "lang": "JavaScript",
-      "stars": "1,930",
-      "today": "247 stars today"
-    },
-    {
-      "name": "chrislgarry//Apollo-11",
-      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "lang": "Assembly",
-      "stars": "71,196",
-      "today": "592 stars today"
-    },
-    {
-      "name": "diegosouzapw//OmniRoute",
-      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "lang": "TypeScript",
-      "stars": "27,689",
-      "today": "1,929 stars today"
+      "stars": "73,586",
+      "today": "2,184 stars today"
     },
     {
       "name": "ComposioHQ//awesome-claude-skills",
       "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "lang": "Python",
-      "stars": "69,614",
-      "today": "636 stars today"
+      "stars": "70,219",
+      "today": "663 stars today"
     },
     {
-      "name": "earthtojake//text-to-cad",
-      "desc": "A collection of agent skills for CAD, robotics and hardware design",
-      "lang": "JavaScript",
-      "stars": "10,175",
-      "today": "230 stars today"
-    },
-    {
-      "name": "agegr//pi-web",
-      "desc": "Web UI for the pi coding agent",
-      "lang": "TypeScript",
-      "stars": "2,484",
-      "today": "315 stars today"
-    },
-    {
-      "name": "alibaba//open-code-review",
-      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "lang": "Go",
-      "stars": "11,879",
-      "today": "180 stars today"
-    },
-    {
-      "name": "ruvnet//RuView",
-      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "name": "Pumpkin-MC//Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
       "lang": "Rust",
-      "stars": "85,426",
-      "today": "1,708 stars today"
+      "stars": "9,426",
+      "today": "473 stars today"
     },
     {
-      "name": "likec4//likec4",
-      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "lang": "TypeScript",
-      "stars": "4,800",
-      "today": "472 stars today"
+      "name": "shiyu-coder//Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars": "33,577",
+      "today": "499 stars today"
     },
     {
       "name": "Automattic//harper",
       "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "lang": "Rust",
-      "stars": "12,536",
-      "today": "624 stars today"
+      "stars": "13,124",
+      "today": "876 stars today"
     },
     {
-      "name": "jellyfin//jellyfin",
-      "desc": "The Free Software Media System - Server Backend & API",
-      "lang": "C#",
-      "stars": "54,823",
-      "today": "66 stars today"
+      "name": "likec4//likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "lang": "TypeScript",
+      "stars": "5,086",
+      "today": "337 stars today"
+    },
+    {
+      "name": "citrolabs//ego-lite",
+      "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "lang": "JavaScript",
+      "stars": "2,860",
+      "today": "880 stars today"
+    },
+    {
+      "name": "yorukot//superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "lang": "Go",
+      "stars": "19,725",
+      "today": "338 stars today"
+    },
+    {
+      "name": "ruvnet//RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars": "86,080",
+      "today": "1,022 stars today"
+    },
+    {
+      "name": "CoreBunch//Instatic",
+      "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "lang": "TypeScript",
+      "stars": "4,384",
+      "today": "201 stars today"
+    },
+    {
+      "name": "chrislgarry//Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "lang": "Assembly",
+      "stars": "71,444",
+      "today": "409 stars today"
+    },
+    {
+      "name": "mattpocock//skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars": "187,191",
+      "today": "2,251 stars today"
+    },
+    {
+      "name": "Lordog//dive-into-llms",
+      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "lang": "Jupyter Notebook",
+      "stars": "45,129",
+      "today": "328 stars today"
+    },
+    {
+      "name": "diegosouzapw//OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "lang": "TypeScript",
+      "stars": "29,210",
+      "today": "1,841 stars today"
+    },
+    {
+      "name": "OtterMind//Chat2DB",
+      "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "lang": "Java",
+      "stars": "26,432",
+      "today": "82 stars today"
     }
   ]
 }

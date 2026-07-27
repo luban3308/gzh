@@ -1,117 +1,131 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "repos": [
     {
       "name": "block//buzz",
       "desc": "A hive mind communication platform",
       "lang": "Rust",
-      "stars": "10,474",
-      "today": "3,270 stars today"
+      "stars": "12,278",
+      "today": "2,491 stars today"
     },
     {
-      "name": "koala73//worldmonitor",
-      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "lang": "TypeScript",
-      "stars": "73,586",
-      "today": "2,184 stars today"
-    },
-    {
-      "name": "ComposioHQ//awesome-claude-skills",
-      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "lang": "Python",
-      "stars": "70,219",
-      "today": "663 stars today"
-    },
-    {
-      "name": "Pumpkin-MC//Pumpkin",
-      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "lang": "Rust",
-      "stars": "9,426",
-      "today": "473 stars today"
-    },
-    {
-      "name": "shiyu-coder//Kronos",
-      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "lang": "Python",
-      "stars": "33,577",
-      "today": "499 stars today"
-    },
-    {
-      "name": "Automattic//harper",
-      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "lang": "Rust",
-      "stars": "13,124",
-      "today": "876 stars today"
-    },
-    {
-      "name": "likec4//likec4",
-      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "lang": "TypeScript",
-      "stars": "5,086",
-      "today": "337 stars today"
+      "name": "alibaba//open-code-review",
+      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars": "13,166",
+      "today": "431 stars today"
     },
     {
       "name": "citrolabs//ego-lite",
       "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "lang": "JavaScript",
-      "stars": "2,860",
-      "today": "880 stars today"
+      "stars": "3,787",
+      "today": "986 stars today"
     },
     {
-      "name": "yorukot//superfile",
-      "desc": "Pretty fancy and modern terminal file manager",
-      "lang": "Go",
-      "stars": "19,725",
-      "today": "338 stars today"
+      "name": "ComposioHQ//awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars": "70,723",
+      "today": "577 stars today"
     },
     {
-      "name": "ruvnet//RuView",
-      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "name": "anthropics//claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "lang": "Jupyter Notebook",
+      "stars": "49,973",
+      "today": "132 stars today"
+    },
+    {
+      "name": "Automattic//harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "lang": "Rust",
-      "stars": "86,080",
-      "today": "1,022 stars today"
+      "stars": "13,507",
+      "today": "503 stars today"
     },
     {
-      "name": "CoreBunch//Instatic",
-      "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "lang": "TypeScript",
-      "stars": "4,384",
-      "today": "201 stars today"
+      "name": "shiyu-coder//Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars": "33,876",
+      "today": "319 stars today"
     },
     {
-      "name": "chrislgarry//Apollo-11",
-      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "lang": "Assembly",
-      "stars": "71,444",
-      "today": "409 stars today"
+      "name": "obra//superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars": "261,228",
+      "today": "479 stars today"
+    },
+    {
+      "name": "Pumpkin-MC//Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "lang": "Rust",
+      "stars": "9,776",
+      "today": "358 stars today"
+    },
+    {
+      "name": "permissionlesstech//bitchat",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "lang": "Swift",
+      "stars": "28,912",
+      "today": "1,720 stars today"
     },
     {
       "name": "mattpocock//skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
       "lang": "Shell",
-      "stars": "187,191",
-      "today": "2,251 stars today"
+      "stars": "188,616",
+      "today": "1,740 stars today"
+    },
+    {
+      "name": "palmier-io//palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "lang": "Swift",
+      "stars": "12,313",
+      "today": "412 stars today"
+    },
+    {
+      "name": "CoreBunch//Instatic",
+      "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "lang": "TypeScript",
+      "stars": "5,217",
+      "today": "426 stars today"
     },
     {
       "name": "Lordog//dive-into-llms",
       "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "lang": "Jupyter Notebook",
-      "stars": "45,129",
-      "today": "328 stars today"
+      "stars": "45,449",
+      "today": "408 stars today"
     },
     {
-      "name": "diegosouzapw//OmniRoute",
-      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "lang": "TypeScript",
-      "stars": "29,210",
-      "today": "1,841 stars today"
+      "name": "RyanCodrai//turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "lang": "Python",
+      "stars": "14,333",
+      "today": "86 stars today"
     },
     {
       "name": "OtterMind//Chat2DB",
       "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "lang": "Java",
-      "stars": "26,432",
-      "today": "82 stars today"
+      "stars": "26,789",
+      "today": "360 stars today"
+    },
+    {
+      "name": "andrewyng//aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "lang": "Python",
+      "stars": "15,273",
+      "today": "77 stars today"
+    },
+    {
+      "name": "affaan-m//ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars": "233,413",
+      "today": "377 stars today"
     }
   ]
 }

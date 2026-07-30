@@ -1,110 +1,96 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "repos": [
     {
-      "name": "permissionlesstech//bitchat",
-      "desc": "bluetooth mesh chat, IRC vibes",
-      "lang": "Swift",
-      "stars": "32,632",
-      "today": "2,346 stars today"
-    },
-    {
-      "name": "amnezia-vpn//amnezia-client",
-      "desc": "Amnezia VPN Client (Desktop+Mobile)",
-      "lang": "C++",
-      "stars": "13,994",
-      "today": "515 stars today"
-    },
-    {
-      "name": "moeru-ai//airi",
-      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "name": "pascalorg//editor",
+      "desc": "Create and share 3D architectural projects.",
       "lang": "TypeScript",
-      "stars": "44,283",
-      "today": "572 stars today"
-    },
-    {
-      "name": "opengeos//GeoLibre",
-      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "lang": "TypeScript",
-      "stars": "2,910",
-      "today": "420 stars today"
-    },
-    {
-      "name": "yorukot//superfile",
-      "desc": "Pretty fancy and modern terminal file manager",
-      "lang": "Go",
-      "stars": "21,063",
-      "today": "600 stars today"
-    },
-    {
-      "name": "NanmiCoder//MediaCrawler",
-      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "lang": "Python",
-      "stars": "58,543",
-      "today": "362 stars today"
-    },
-    {
-      "name": "pbakaus//impeccable",
-      "desc": "The design language that makes your AI harness better at design.",
-      "lang": "JavaScript",
-      "stars": "51,816",
-      "today": "847 stars today"
-    },
-    {
-      "name": "shiyu-coder//Kronos",
-      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "lang": "Python",
-      "stars": "34,667",
-      "today": "441 stars today"
-    },
-    {
-      "name": "alibaba//open-code-review",
-      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "lang": "Go",
-      "stars": "15,148",
-      "today": "979 stars today"
+      "stars": "19,008",
+      "today": "341 stars today"
     },
     {
       "name": "jenkinsci//jenkins",
       "desc": "Jenkins automation server",
       "lang": "Java",
-      "stars": "25,927",
+      "stars": "26,150",
       "today": "180 stars today"
+    },
+    {
+      "name": "moeru-ai//airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars": "44,981",
+      "today": "797 stars today"
+    },
+    {
+      "name": "andrewyng//aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "lang": "Python",
+      "stars": "15,761",
+      "today": "62 stars today"
+    },
+    {
+      "name": "affaan-m//ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars": "235,070",
+      "today": "636 stars today"
+    },
+    {
+      "name": "hello245m//free-stockdb",
+      "desc": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "lang": "HTML",
+      "stars": "1,507",
+      "today": "50 stars today"
+    },
+    {
+      "name": "huggingface//speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "lang": "Python",
+      "stars": "7,460",
+      "today": "227 stars today"
+    },
+    {
+      "name": "virgiliojr94//book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "lang": "Python",
+      "stars": "11,836",
+      "today": "423 stars today"
+    },
+    {
+      "name": "opengeos//GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "lang": "TypeScript",
+      "stars": "3,578",
+      "today": "607 stars today"
+    },
+    {
+      "name": "paperswithbacktest//awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "lang": "Python",
+      "stars": "9,906",
+      "today": "309 stars today"
+    },
+    {
+      "name": "microsoft//agent-governance-toolkit",
+      "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "lang": "Python",
+      "stars": "5,351",
+      "today": "46 stars today"
+    },
+    {
+      "name": "yorukot//superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "lang": "Go",
+      "stars": "21,663",
+      "today": "662 stars today"
     },
     {
       "name": "bradautomates//claude-video",
       "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "lang": "Python",
-      "stars": "11,394",
-      "today": "434 stars today"
-    },
-    {
-      "name": "vudovn//ag-kit",
-      "desc": "",
-      "lang": "TypeScript",
-      "stars": "8,023",
-      "today": "14 stars today"
-    },
-    {
-      "name": "apache//cassandra",
-      "desc": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
-      "lang": "Java",
-      "stars": "10,007",
-      "today": "11 stars today"
-    },
-    {
-      "name": "mvanhorn//last30days-skill",
-      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "lang": "Python",
-      "stars": "54,352",
-      "today": "240 stars today"
-    },
-    {
-      "name": "ocornut//imgui",
-      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "lang": "C++",
-      "stars": "75,263",
-      "today": "51 stars today"
+      "stars": "12,347",
+      "today": "988 stars today"
     }
   ]
 }

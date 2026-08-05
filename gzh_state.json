@@ -407,11 +407,35 @@
       "url": "https://www.163.com/dy/article/L3AJ9L220553JMK2.html",
       "pub_time": "2026-08-02 08:48",
       "fetched_at": "2026-08-03T08:02:06.651387"
+    },
+    "https://www.163.com/dy/article/L3IJO0HL0553JMK2.html": {
+      "title": "煤老板，有没有你想的那么嗨？",
+      "url": "https://www.163.com/dy/article/L3IJO0HL0553JMK2.html",
+      "pub_time": "2026-08-05 11:29",
+      "fetched_at": "2026-08-05T08:01:36.599258"
+    },
+    "https://www.163.com/dy/article/L3I5BVVR0553JMK2.html": {
+      "title": "这一届年轻人和上一届一样，遭遇一样，困惑也一样",
+      "url": "https://www.163.com/dy/article/L3I5BVVR0553JMK2.html",
+      "pub_time": "2026-08-05 07:22",
+      "fetched_at": "2026-08-05T08:01:37.437017"
+    },
+    "https://www.163.com/dy/article/L3G18JM10553JMK2.html": {
+      "title": "这年头副业月入2万，你已经可以把它看成主业了",
+      "url": "https://www.163.com/dy/article/L3G18JM10553JMK2.html",
+      "pub_time": "2026-08-04 11:35",
+      "fetched_at": "2026-08-05T08:01:38.599177"
+    },
+    "https://www.163.com/dy/article/L3FM01JT0553JMK2.html": {
+      "title": "大部分中国人活得相当滋润，只不过自己未必知道",
+      "url": "https://www.163.com/dy/article/L3FM01JT0553JMK2.html",
+      "pub_time": "2026-08-04 08:11",
+      "fetched_at": "2026-08-05T08:01:39.398583"
     }
   },
   "last_check": {
-    "time": "2026-08-03T08:02:00.071345",
-    "saved": 3,
+    "time": "2026-08-05T08:01:33.266012",
+    "saved": 4,
     "errors": 0
   }
 }

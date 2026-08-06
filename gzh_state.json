@@ -431,11 +431,17 @@
       "url": "https://www.163.com/dy/article/L3FM01JT0553JMK2.html",
       "pub_time": "2026-08-04 08:11",
       "fetched_at": "2026-08-05T08:01:39.398583"
+    },
+    "https://www.163.com/dy/article/L3KO2QA10553JMK2.html": {
+      "title": "提供给富老头的价值未必非得是你自己身上的",
+      "url": "https://www.163.com/dy/article/L3KO2QA10553JMK2.html",
+      "pub_time": "2026-08-06 07:24",
+      "fetched_at": "2026-08-06T08:02:24.048407"
     }
   },
   "last_check": {
-    "time": "2026-08-05T08:01:33.266012",
-    "saved": 4,
+    "time": "2026-08-06T08:02:20.273114",
+    "saved": 1,
     "errors": 0
   }
 }

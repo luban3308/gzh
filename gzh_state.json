@@ -437,11 +437,29 @@
       "url": "https://www.163.com/dy/article/L3KO2QA10553JMK2.html",
       "pub_time": "2026-08-06 07:24",
       "fetched_at": "2026-08-06T08:02:24.048407"
+    },
+    "https://www.163.com/dy/article/L3NNLGHS0553JMK2.html": {
+      "title": "千万不要有阶层的想法",
+      "url": "https://www.163.com/dy/article/L3NNLGHS0553JMK2.html",
+      "pub_time": "2026-08-07 11:29",
+      "fetched_at": "2026-08-07T08:02:44.317172"
+    },
+    "https://www.163.com/dy/article/L3NCJ3OP0553JMK2.html": {
+      "title": "不会猜领导心思，你咋升上去呢？",
+      "url": "https://www.163.com/dy/article/L3NCJ3OP0553JMK2.html",
+      "pub_time": "2026-08-07 08:14",
+      "fetched_at": "2026-08-07T08:02:45.519038"
+    },
+    "https://www.163.com/dy/article/L3L85UHI0553JMK2.html": {
+      "title": "你以为这么多年自己扇自己耳光，是白扇的？",
+      "url": "https://www.163.com/dy/article/L3L85UHI0553JMK2.html",
+      "pub_time": "2026-08-06 12:06",
+      "fetched_at": "2026-08-07T08:02:46.444578"
     }
   },
   "last_check": {
-    "time": "2026-08-06T08:02:20.273114",
-    "saved": 1,
+    "time": "2026-08-07T08:02:40.404785",
+    "saved": 3,
     "errors": 0
   }
 }

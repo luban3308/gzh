@@ -455,11 +455,23 @@
       "url": "https://www.163.com/dy/article/L3L85UHI0553JMK2.html",
       "pub_time": "2026-08-06 12:06",
       "fetched_at": "2026-08-07T08:02:46.444578"
+    },
+    "https://www.163.com/dy/article/L3PVAO7L0553JMK2.html": {
+      "title": "把工作承包给AI，自己躺赚差价？",
+      "url": "https://www.163.com/dy/article/L3PVAO7L0553JMK2.html",
+      "pub_time": "2026-08-08 08:07",
+      "fetched_at": "2026-08-08T08:03:27.337696"
+    },
+    "https://www.163.com/dy/article/L3PSK1ND0553JMK2.html": {
+      "title": "为什么这些小人爬这么快？",
+      "url": "https://www.163.com/dy/article/L3PSK1ND0553JMK2.html",
+      "pub_time": "2026-08-08 07:17",
+      "fetched_at": "2026-08-08T08:03:28.301947"
     }
   },
   "last_check": {
-    "time": "2026-08-07T08:02:40.404785",
-    "saved": 3,
+    "time": "2026-08-08T08:03:23.390635",
+    "saved": 2,
     "errors": 0
   }
 }

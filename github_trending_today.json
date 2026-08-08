@@ -1,96 +1,96 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "repos": [
-    {
-      "name": "cloudflare//computer",
-      "desc": "Give your agent a computer 👾",
-      "lang": "TypeScript",
-      "stars": "3,771",
-      "today": "891 stars today"
-    },
-    {
-      "name": "huangruiteng//loopx",
-      "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "lang": "Python",
-      "stars": "2,401",
-      "today": "326 stars today"
-    },
     {
       "name": "TencentCloud//TencentDB-Agent-Memory",
       "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "lang": "TypeScript",
-      "stars": "15,371",
-      "today": "1,892 stars today"
-    },
-    {
-      "name": "donnemartin//system-design-primer",
-      "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "lang": "Python",
-      "stars": "361,752",
-      "today": "303 stars today"
-    },
-    {
-      "name": "firecrawl//pdf-inspector",
-      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "lang": "Rust",
-      "stars": "11,756",
-      "today": "1,582 stars today"
-    },
-    {
-      "name": "esengine//DeepSeek-Reasonix",
-      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "lang": "Go",
-      "stars": "31,876",
-      "today": "747 stars today"
+      "stars": "16,818",
+      "today": "1,057 stars today"
     },
     {
       "name": "addyosmani//agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
       "lang": "JavaScript",
-      "stars": "82,144",
-      "today": "226 stars today"
+      "stars": "83,194",
+      "today": "593 stars today"
+    },
+    {
+      "name": "cloudflare//computer",
+      "desc": "Give your agent a computer 👾",
+      "lang": "TypeScript",
+      "stars": "5,033",
+      "today": "2,802 stars today"
+    },
+    {
+      "name": "mattpocock//skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars": "207,644",
+      "today": "1,873 stars today"
+    },
+    {
+      "name": "goauthentik//authentik",
+      "desc": "The authentication glue you need.",
+      "lang": "Python",
+      "stars": "23,254",
+      "today": "138 stars today"
+    },
+    {
+      "name": "huangruiteng//loopx",
+      "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "lang": "Python",
+      "stars": "3,085",
+      "today": "847 stars today"
+    },
+    {
+      "name": "google//guava",
+      "desc": "Google core libraries for Java",
+      "lang": "Java",
+      "stars": "51,678",
+      "today": "13 stars today"
+    },
+    {
+      "name": "TapXWorld//ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "lang": "Roff",
+      "stars": "77,384",
+      "today": "134 stars today"
+    },
+    {
+      "name": "Significant-Gravitas//AutoGPT",
+      "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "lang": "Python",
+      "stars": "186,121",
+      "today": "37 stars today"
+    },
+    {
+      "name": "tirth8205//code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars": "29,177",
+      "today": "237 stars today"
+    },
+    {
+      "name": "esengine//DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "lang": "Go",
+      "stars": "32,656",
+      "today": "888 stars today"
     },
     {
       "name": "obra//superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
       "lang": "Shell",
-      "stars": "267,526",
-      "today": "931 stars today"
+      "stars": "268,292",
+      "today": "858 stars today"
     },
     {
-      "name": "roboflow//supervision",
-      "desc": "We write your reusable computer vision tools. 💜",
-      "lang": "Python",
-      "stars": "49,036",
-      "today": "146 stars today"
-    },
-    {
-      "name": "vercel//next.js",
-      "desc": "The React Framework",
-      "lang": "JavaScript",
-      "stars": "141,602",
-      "today": "68 stars today"
-    },
-    {
-      "name": "tailwindlabs//tailwindcss",
-      "desc": "A utility-first CSS framework for rapid UI development.",
-      "lang": "TypeScript",
-      "stars": "96,950",
-      "today": "408 stars today"
-    },
-    {
-      "name": "uber//ADR",
-      "desc": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "lang": "Python",
-      "stars": "1,124",
-      "today": "354 stars today"
-    },
-    {
-      "name": "lyogavin//airllm",
-      "desc": "AirLLM 70B inference with single 4GB GPU",
-      "lang": "Jupyter Notebook",
-      "stars": "29,267",
-      "today": "833 stars today"
+      "name": "firecrawl//pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars": "12,678",
+      "today": "1,190 stars today"
     }
   ]
 }

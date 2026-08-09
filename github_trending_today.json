@@ -1,96 +1,124 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "repos": [
     {
-      "name": "TencentCloud//TencentDB-Agent-Memory",
-      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "name": "PrimeIntellect-ai//prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "lang": "TypeScript",
-      "stars": "16,818",
-      "today": "1,057 stars today"
+      "stars": "7,077",
+      "today": "2,293 stars today"
     },
     {
       "name": "addyosmani//agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
       "lang": "JavaScript",
-      "stars": "83,194",
-      "today": "593 stars today"
+      "stars": "84,063",
+      "today": "1,131 stars today"
     },
     {
       "name": "cloudflare//computer",
       "desc": "Give your agent a computer 👾",
       "lang": "TypeScript",
-      "stars": "5,033",
-      "today": "2,802 stars today"
+      "stars": "6,009",
+      "today": "872 stars today"
     },
     {
       "name": "mattpocock//skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
       "lang": "Shell",
-      "stars": "207,644",
-      "today": "1,873 stars today"
-    },
-    {
-      "name": "goauthentik//authentik",
-      "desc": "The authentication glue you need.",
-      "lang": "Python",
-      "stars": "23,254",
-      "today": "138 stars today"
-    },
-    {
-      "name": "huangruiteng//loopx",
-      "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "lang": "Python",
-      "stars": "3,085",
-      "today": "847 stars today"
-    },
-    {
-      "name": "google//guava",
-      "desc": "Google core libraries for Java",
-      "lang": "Java",
-      "stars": "51,678",
-      "today": "13 stars today"
-    },
-    {
-      "name": "TapXWorld//ChinaTextbook",
-      "desc": "所有小初高、大学PDF教材。",
-      "lang": "Roff",
-      "stars": "77,384",
-      "today": "134 stars today"
-    },
-    {
-      "name": "Significant-Gravitas//AutoGPT",
-      "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "lang": "Python",
-      "stars": "186,121",
-      "today": "37 stars today"
-    },
-    {
-      "name": "tirth8205//code-review-graph",
-      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "lang": "Python",
-      "stars": "29,177",
-      "today": "237 stars today"
-    },
-    {
-      "name": "esengine//DeepSeek-Reasonix",
-      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "lang": "Go",
-      "stars": "32,656",
-      "today": "888 stars today"
+      "stars": "209,137",
+      "today": "2,152 stars today"
     },
     {
       "name": "obra//superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
       "lang": "Shell",
-      "stars": "268,292",
-      "today": "858 stars today"
+      "stars": "268,895",
+      "today": "782 stars today"
     },
     {
-      "name": "firecrawl//pdf-inspector",
-      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "name": "goauthentik//authentik",
+      "desc": "The authentication glue you need.",
+      "lang": "Python",
+      "stars": "23,708",
+      "today": "530 stars today"
+    },
+    {
+      "name": "semantica-agi//semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars": "2,422",
+      "today": "122 stars today"
+    },
+    {
+      "name": "666ghj//MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "lang": "Python",
+      "stars": "70,623",
+      "today": "141 stars today"
+    },
+    {
+      "name": "chenyme//grok2api",
+      "desc": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "lang": "Go",
+      "stars": "7,171",
+      "today": "55 stars today"
+    },
+    {
+      "name": "jdx//mise",
+      "desc": "dev tools, env vars, task runner",
       "lang": "Rust",
-      "stars": "12,678",
-      "today": "1,190 stars today"
+      "stars": "32,114",
+      "today": "135 stars today"
+    },
+    {
+      "name": "Significant-Gravitas//AutoGPT",
+      "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "lang": "Python",
+      "stars": "186,384",
+      "today": "355 stars today"
+    },
+    {
+      "name": "google//guava",
+      "desc": "Google core libraries for Java",
+      "lang": "Java",
+      "stars": "51,783",
+      "today": "152 stars today"
+    },
+    {
+      "name": "unclebob//swarm-forge",
+      "desc": "A simple tool for coordinating several AI agents.",
+      "lang": "Clojure",
+      "stars": "1,894",
+      "today": "81 stars today"
+    },
+    {
+      "name": "denoland//celld",
+      "desc": "self-hosted, distributed Durable Objects",
+      "lang": "Rust",
+      "stars": "2,306",
+      "today": "516 stars today"
+    },
+    {
+      "name": "K2SOsint//Legendary_OSINT",
+      "desc": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "lang": "",
+      "stars": "1,551",
+      "today": "109 stars today"
+    },
+    {
+      "name": "pranshuparmar//witr",
+      "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "lang": "Go",
+      "stars": "19,903",
+      "today": "234 stars today"
+    },
+    {
+      "name": "google//skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars": "16,371",
+      "today": "327 stars today"
     }
   ]
 }

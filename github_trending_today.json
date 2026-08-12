@@ -1,89 +1,117 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "repos": [
     {
-      "name": "PrimeIntellect-ai//prime-agent",
-      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "lang": "TypeScript",
-      "stars": "11,930",
-      "today": "2,356 stars today"
-    },
-    {
-      "name": "vitali87//code-graph-rag",
-      "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "name": "semantica-agi//semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "lang": "Python",
-      "stars": "3,212",
-      "today": "96 stars today"
+      "stars": "4,386",
+      "today": "970 stars today"
     },
     {
       "name": "msitarzewski//agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "lang": "Shell",
-      "stars": "141,129",
-      "today": "858 stars today"
+      "stars": "142,054",
+      "today": "1,349 stars today"
     },
     {
-      "name": "pranshuparmar//witr",
-      "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "lang": "Go",
-      "stars": "20,951",
-      "today": "210 stars today"
-    },
-    {
-      "name": "google-deepmind//weathernext",
-      "desc": "",
+      "name": "NanmiCoder//MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "lang": "Python",
-      "stars": "7,173",
-      "today": "86 stars today"
+      "stars": "61,404",
+      "today": "259 stars today"
     },
     {
       "name": "addyosmani//agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
       "lang": "JavaScript",
-      "stars": "85,335",
-      "today": "680 stars today"
+      "stars": "85,911",
+      "today": "659 stars today"
     },
     {
-      "name": "ZhuLinsen//daily_stock_analysis",
-      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "lang": "Python",
-      "stars": "61,467",
-      "today": "306 stars today"
+      "name": "paperclipai//paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars": "76,738",
+      "today": "198 stars today"
     },
     {
-      "name": "goauthentik//authentik",
-      "desc": "The authentication glue you need.",
-      "lang": "Python",
-      "stars": "24,383",
-      "today": "310 stars today"
+      "name": "PrimeIntellect-ai//prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "lang": "TypeScript",
+      "stars": "13,391",
+      "today": "2,642 stars today"
     },
     {
-      "name": "google//skills",
-      "desc": "Agent Skills for Google products and technologies",
-      "lang": "Python",
-      "stars": "17,392",
-      "today": "528 stars today"
+      "name": "LadybirdBrowser//ladybird",
+      "desc": "Truly independent web browser",
+      "lang": "C++",
+      "stars": "65,321",
+      "today": "56 stars today"
     },
     {
-      "name": "Comfy-Org//ComfyUI",
-      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "lang": "Python",
-      "stars": "125,806",
-      "today": "365 stars today"
+      "name": "ruvnet//RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars": "89,471",
+      "today": "154 stars today"
     },
     {
-      "name": "harveyai//harvey-labs",
-      "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "name": "danielmiessler//LifeOS",
+      "desc": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "lang": "TypeScript",
+      "stars": "18,095",
+      "today": "315 stars today"
+    },
+    {
+      "name": "firecrawl//firecrawl",
+      "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "lang": "TypeScript",
+      "stars": "165,345",
+      "today": "835 stars today"
+    },
+    {
+      "name": "TauricResearch//TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "lang": "Python",
-      "stars": "905",
-      "today": "47 stars today"
+      "stars": "97,396",
+      "today": "177 stars today"
+    },
+    {
+      "name": "google-deepmind//weathernext",
+      "desc": "",
+      "lang": "Python",
+      "stars": "7,413",
+      "today": "325 stars today"
+    },
+    {
+      "name": "vitali87//code-graph-rag",
+      "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "lang": "Python",
+      "stars": "3,620",
+      "today": "682 stars today"
     },
     {
       "name": "pingdotgg//t3code",
       "desc": "",
       "lang": "TypeScript",
-      "stars": "17,773",
-      "today": "163 stars today"
+      "stars": "18,106",
+      "today": "389 stars today"
+    },
+    {
+      "name": "Comfy-Org//ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "lang": "Python",
+      "stars": "126,523",
+      "today": "922 stars today"
+    },
+    {
+      "name": "opa334//Dopamine",
+      "desc": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "lang": "C",
+      "stars": "6,108",
+      "today": "111 stars today"
     }
   ]
 }

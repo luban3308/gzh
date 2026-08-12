@@ -497,11 +497,23 @@
       "url": "https://www.163.com/dy/article/L41MFLR40553JMK2.html",
       "pub_time": "2026-08-11 08:04",
       "fetched_at": "2026-08-11T08:01:51.225025"
+    },
+    "https://www.163.com/dy/article/L447FKB00553JMK2.html": {
+      "title": "怎么避免活儿是自己干的，功不是自己的，锅却是自己的？",
+      "url": "https://www.163.com/dy/article/L447FKB00553JMK2.html",
+      "pub_time": "2026-08-12 07:41",
+      "fetched_at": "2026-08-12T08:01:38.452904"
+    },
+    "https://www.163.com/dy/article/L447DG0Q0553JMK2.html": {
+      "title": "运气决定了你的上限，你自己决定了你的下限",
+      "url": "https://www.163.com/dy/article/L447DG0Q0553JMK2.html",
+      "pub_time": "2026-08-12 07:38",
+      "fetched_at": "2026-08-12T08:01:39.414711"
     }
   },
   "last_check": {
-    "time": "2026-08-11T08:01:46.896698",
-    "saved": 1,
+    "time": "2026-08-12T08:01:33.659243",
+    "saved": 2,
     "errors": 0
   }
 }

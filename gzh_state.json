@@ -509,11 +509,29 @@
       "url": "https://www.163.com/dy/article/L447DG0Q0553JMK2.html",
       "pub_time": "2026-08-12 07:38",
       "fetched_at": "2026-08-12T08:01:39.414711"
+    },
+    "https://www.163.com/dy/article/L476K8MN0553JMK2.html": {
+      "title": "拥有AI的加持，年轻人是否可以吊打前三类，直奔终点站？",
+      "url": "https://www.163.com/dy/article/L476K8MN0553JMK2.html",
+      "pub_time": "2026-08-13 11:30",
+      "fetched_at": "2026-08-13T08:01:15.806216"
+    },
+    "https://www.163.com/dy/article/L46PL1MR0553JMK2.html": {
+      "title": "有些人择业就跟择偶一样，择不到才是正常的",
+      "url": "https://www.163.com/dy/article/L46PL1MR0553JMK2.html",
+      "pub_time": "2026-08-13 07:39",
+      "fetched_at": "2026-08-13T08:01:16.901995"
+    },
+    "https://www.163.com/dy/article/L44N301J0553JMK2.html": {
+      "title": "大多数人注定是耗材",
+      "url": "https://www.163.com/dy/article/L44N301J0553JMK2.html",
+      "pub_time": "2026-08-12 12:13",
+      "fetched_at": "2026-08-13T08:01:17.898223"
     }
   },
   "last_check": {
-    "time": "2026-08-12T08:01:33.659243",
-    "saved": 2,
+    "time": "2026-08-13T08:01:11.061969",
+    "saved": 3,
     "errors": 0
   }
 }

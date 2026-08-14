@@ -1,124 +1,124 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "repos": [
     {
-      "name": "msitarzewski//agency-agents",
-      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "lang": "Shell",
-      "stars": "143,820",
-      "today": "958 stars today"
+      "name": "cathrynlavery//diagram-design",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "lang": "HTML",
+      "stars": "11,748",
+      "today": "2,855 stars today"
+    },
+    {
+      "name": "macro-inc//macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars": "2,148",
+      "today": "227 stars today"
     },
     {
       "name": "semantica-agi//semantica",
       "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "lang": "Python",
-      "stars": "5,179",
-      "today": "893 stars today"
-    },
-    {
-      "name": "nvm-sh//nvm",
-      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "lang": "Shell",
-      "stars": "94,527",
-      "today": "22 stars today"
-    },
-    {
-      "name": "addyosmani//agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "lang": "JavaScript",
-      "stars": "86,353",
-      "today": "578 stars today"
-    },
-    {
-      "name": "ZhuLinsen//daily_stock_analysis",
-      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "lang": "Python",
-      "stars": "62,346",
-      "today": "243 stars today"
-    },
-    {
-      "name": "vitali87//code-graph-rag",
-      "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "lang": "Python",
-      "stars": "3,924",
-      "today": "341 stars today"
-    },
-    {
-      "name": "anthropics//skills",
-      "desc": "Public repository for Agent Skills",
-      "lang": "Python",
-      "stars": "168,322",
-      "today": "485 stars today"
-    },
-    {
-      "name": "3b1b//manim",
-      "desc": "Animation engine for explanatory math videos",
-      "lang": "Python",
-      "stars": "90,354",
-      "today": "197 stars today"
-    },
-    {
-      "name": "HKUDS//DeepTutor",
-      "desc": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-      "lang": "Python",
-      "stars": "34,946",
-      "today": "812 stars today"
+      "stars": "5,934",
+      "today": "845 stars today"
     },
     {
       "name": "stablyai//orca",
       "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "lang": "TypeScript",
-      "stars": "43,116",
-      "today": "875 stars today"
+      "stars": "44,272",
+      "today": "1,235 stars today"
+    },
+    {
+      "name": "msitarzewski//agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars": "144,802",
+      "today": "1,873 stars today"
+    },
+    {
+      "name": "shiyu-coder//Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars": "37,010",
+      "today": "266 stars today"
+    },
+    {
+      "name": "NanmiCoder//MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars": "62,150",
+      "today": "215 stars today"
+    },
+    {
+      "name": "hugohe3//ppt-master",
+      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "lang": "Python",
+      "stars": "46,030",
+      "today": "476 stars today"
+    },
+    {
+      "name": "infiniflow//ragflow",
+      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "lang": "Go",
+      "stars": "87,694",
+      "today": "139 stars today"
     },
     {
       "name": "paperclipai//paperclip",
       "desc": "The open-source app everyone uses to manage agents at work",
       "lang": "TypeScript",
-      "stars": "77,330",
-      "today": "748 stars today"
+      "stars": "77,885",
+      "today": "571 stars today"
     },
     {
-      "name": "huggingface//transformers",
-      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "lang": "Python",
-      "stars": "163,903",
-      "today": "80 stars today"
+      "name": "NVIDIA-NeMo//Switchyard",
+      "desc": "",
+      "lang": "Rust",
+      "stars": "945",
+      "today": "421 stars today"
     },
     {
-      "name": "harveyai//harvey-labs",
-      "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-      "lang": "Python",
-      "stars": "1,125",
-      "today": "28 stars today"
-    },
-    {
-      "name": "jaywcjlove//awesome-mac",
-      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-      "lang": "Swift",
-      "stars": "110,629",
-      "today": "298 stars today"
-    },
-    {
-      "name": "calesthio//OpenMontage",
-      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "lang": "Python",
-      "stars": "47,546",
-      "today": "458 stars today"
-    },
-    {
-      "name": "practical-tutorials//project-based-learning",
-      "desc": "Curated list of project-based tutorials",
-      "lang": "Python",
-      "stars": "278,629",
-      "today": "401 stars today"
-    },
-    {
-      "name": "PrimeIntellect-ai//prime-agent",
-      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "name": "ZuodaoTech//everyone-can-use-english",
+      "desc": "人人都能用英语",
       "lang": "TypeScript",
-      "stars": "14,437",
-      "today": "1,138 stars today"
+      "stars": "36,277",
+      "today": "86 stars today"
+    },
+    {
+      "name": "smicallef//spiderfoot",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "lang": "Python",
+      "stars": "20,426",
+      "today": "74 stars today"
+    },
+    {
+      "name": "localsend//localsend",
+      "desc": "An open-source cross-platform alternative to AirDrop",
+      "lang": "Dart",
+      "stars": "88,000",
+      "today": "213 stars today"
+    },
+    {
+      "name": "Lightricks//LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "lang": "Python",
+      "stars": "8,778",
+      "today": "65 stars today"
+    },
+    {
+      "name": "embabel//embabel-agent",
+      "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "lang": "Kotlin",
+      "stars": "4,260",
+      "today": "40 stars today"
+    },
+    {
+      "name": "cactus-compute//needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "lang": "Python",
+      "stars": "4,461",
+      "today": "315 stars today"
     }
   ]
 }

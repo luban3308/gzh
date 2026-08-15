@@ -1,124 +1,124 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "repos": [
     {
       "name": "cathrynlavery//diagram-design",
       "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "lang": "HTML",
-      "stars": "11,748",
-      "today": "2,855 stars today"
-    },
-    {
-      "name": "macro-inc//macro",
-      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "lang": "Rust",
-      "stars": "2,148",
-      "today": "227 stars today"
+      "stars": "15,535",
+      "today": "4,475 stars today"
     },
     {
       "name": "semantica-agi//semantica",
       "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "lang": "Python",
-      "stars": "5,934",
-      "today": "845 stars today"
+      "stars": "7,010",
+      "today": "713 stars today"
     },
     {
-      "name": "stablyai//orca",
-      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "lang": "TypeScript",
-      "stars": "44,272",
-      "today": "1,235 stars today"
-    },
-    {
-      "name": "msitarzewski//agency-agents",
-      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "lang": "Shell",
-      "stars": "144,802",
-      "today": "1,873 stars today"
-    },
-    {
-      "name": "shiyu-coder//Kronos",
-      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "name": "anthropics//skills",
+      "desc": "Public repository for Agent Skills",
       "lang": "Python",
-      "stars": "37,010",
-      "today": "266 stars today"
-    },
-    {
-      "name": "NanmiCoder//MediaCrawler",
-      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "lang": "Python",
-      "stars": "62,150",
-      "today": "215 stars today"
-    },
-    {
-      "name": "hugohe3//ppt-master",
-      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "lang": "Python",
-      "stars": "46,030",
-      "today": "476 stars today"
-    },
-    {
-      "name": "infiniflow//ragflow",
-      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "lang": "Go",
-      "stars": "87,694",
-      "today": "139 stars today"
-    },
-    {
-      "name": "paperclipai//paperclip",
-      "desc": "The open-source app everyone uses to manage agents at work",
-      "lang": "TypeScript",
-      "stars": "77,885",
-      "today": "571 stars today"
-    },
-    {
-      "name": "NVIDIA-NeMo//Switchyard",
-      "desc": "",
-      "lang": "Rust",
-      "stars": "945",
-      "today": "421 stars today"
-    },
-    {
-      "name": "ZuodaoTech//everyone-can-use-english",
-      "desc": "人人都能用英语",
-      "lang": "TypeScript",
-      "stars": "36,277",
-      "today": "86 stars today"
-    },
-    {
-      "name": "smicallef//spiderfoot",
-      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "lang": "Python",
-      "stars": "20,426",
-      "today": "74 stars today"
-    },
-    {
-      "name": "localsend//localsend",
-      "desc": "An open-source cross-platform alternative to AirDrop",
-      "lang": "Dart",
-      "stars": "88,000",
-      "today": "213 stars today"
-    },
-    {
-      "name": "Lightricks//LTX-2",
-      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "lang": "Python",
-      "stars": "8,778",
-      "today": "65 stars today"
-    },
-    {
-      "name": "embabel//embabel-agent",
-      "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-      "lang": "Kotlin",
-      "stars": "4,260",
-      "today": "40 stars today"
+      "stars": "169,219",
+      "today": "312 stars today"
     },
     {
       "name": "cactus-compute//needle",
       "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "lang": "Python",
-      "stars": "4,461",
-      "today": "315 stars today"
+      "stars": "5,140",
+      "today": "769 stars today"
+    },
+    {
+      "name": "altic-dev//FluidVoice",
+      "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "lang": "Swift",
+      "stars": "9,971",
+      "today": "76 stars today"
+    },
+    {
+      "name": "unslothai//unsloth",
+      "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "lang": "Python",
+      "stars": "71,193",
+      "today": "328 stars today"
+    },
+    {
+      "name": "macro-inc//macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars": "2,737",
+      "today": "1,239 stars today"
+    },
+    {
+      "name": "megadose//holehe",
+      "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "lang": "Python",
+      "stars": "12,520",
+      "today": "195 stars today"
+    },
+    {
+      "name": "smicallef//spiderfoot",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "lang": "Python",
+      "stars": "20,726",
+      "today": "283 stars today"
+    },
+    {
+      "name": "NVIDIA-NeMo//Switchyard",
+      "desc": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "lang": "Rust",
+      "stars": "1,317",
+      "today": "408 stars today"
+    },
+    {
+      "name": "holaboss-ai//holaOS",
+      "desc": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "lang": "TypeScript",
+      "stars": "6,811",
+      "today": "241 stars today"
+    },
+    {
+      "name": "kepano//obsidian-skills",
+      "desc": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "lang": "",
+      "stars": "46,014",
+      "today": "292 stars today"
+    },
+    {
+      "name": "3b1b//manim",
+      "desc": "Animation engine for explanatory math videos",
+      "lang": "Python",
+      "stars": "90,994",
+      "today": "176 stars today"
+    },
+    {
+      "name": "msitarzewski//agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars": "145,324",
+      "today": "778 stars today"
+    },
+    {
+      "name": "Lightricks//LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "lang": "Python",
+      "stars": "8,975",
+      "today": "205 stars today"
+    },
+    {
+      "name": "lightningpixel//modly",
+      "desc": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "lang": "TypeScript",
+      "stars": "5,592",
+      "today": "118 stars today"
+    },
+    {
+      "name": "infiniflow//ragflow",
+      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "lang": "Go",
+      "stars": "88,162",
+      "today": "465 stars today"
     }
   ]
 }

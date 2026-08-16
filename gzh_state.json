@@ -551,11 +551,17 @@
       "url": "https://www.163.com/dy/article/L49QUKDL0553JMK2.html",
       "pub_time": "2026-08-14 12:07",
       "fetched_at": "2026-08-15T08:03:50.927431"
+    },
+    "https://www.163.com/dy/article/L4EGJKDL0553JMK2.html": {
+      "title": "你不是不甘心，你只是个李梦",
+      "url": "https://www.163.com/dy/article/L4EGJKDL0553JMK2.html",
+      "pub_time": "2026-08-16 07:34",
+      "fetched_at": "2026-08-16T08:01:01.684230"
     }
   },
   "last_check": {
-    "time": "2026-08-15T08:03:44.624350",
-    "saved": 3,
+    "time": "2026-08-16T08:00:57.174600",
+    "saved": 1,
     "errors": 0
   }
 }

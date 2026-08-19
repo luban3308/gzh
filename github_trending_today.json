@@ -1,54 +1,82 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "repos": [
+    {
+      "name": "harry0703//MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "lang": "Python",
+      "stars": "106,838",
+      "today": "1,189 stars today"
+    },
+    {
+      "name": "usestrix//strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars": "54,549",
+      "today": "598 stars today"
+    },
+    {
+      "name": "nautechsystems//nautilus_trader",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "lang": "Rust",
+      "stars": "26,092",
+      "today": "120 stars today"
+    },
+    {
+      "name": "akitaonrails//ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "lang": "Rust",
+      "stars": "2,303",
+      "today": "207 stars today"
+    },
+    {
+      "name": "mukul975//Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars": "28,636",
+      "today": "198 stars today"
+    },
+    {
+      "name": "AlexsJones//llmfit",
+      "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "lang": "Rust",
+      "stars": "32,475",
+      "today": "198 stars today"
+    },
+    {
+      "name": "santifer//career-ops",
+      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "lang": "JavaScript",
+      "stars": "65,015",
+      "today": "218 stars today"
+    },
+    {
+      "name": "jundot//omlx",
+      "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "lang": "Python",
+      "stars": "19,105",
+      "today": "78 stars today"
+    },
+    {
+      "name": "immich-app//immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "lang": "TypeScript",
+      "stars": "111,356",
+      "today": "175 stars today"
+    },
     {
       "name": "cordiverse//cordis",
       "desc": "Meta-Framework of Spatiotemporal Composability",
       "lang": "TypeScript",
-      "stars": "5,139",
-      "today": "720 stars today"
+      "stars": "5,828",
+      "today": "957 stars today"
     },
     {
-      "name": "basecamp//omarchy",
-      "desc": "Beautiful, Modern & Opinionated Linux",
-      "lang": "Shell",
-      "stars": "25,624",
-      "today": "270 stars today"
-    },
-    {
-      "name": "unslothai//unsloth",
-      "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "lang": "Python",
-      "stars": "72,838",
-      "today": "572 stars today"
-    },
-    {
-      "name": "OpenCut-app//OpenCut",
-      "desc": "The open-source CapCut alternative",
+      "name": "agalwood//Motrix",
+      "desc": "A full-featured download manager.",
       "lang": "TypeScript",
-      "stars": "84,151",
-      "today": "150 stars today"
-    },
-    {
-      "name": "public-apis//public-apis",
-      "desc": "A collective list of free APIs",
-      "lang": "Python",
-      "stars": "462,308",
-      "today": "1,588 stars today"
-    },
-    {
-      "name": "ToolJet//ToolJet",
-      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "lang": "JavaScript",
-      "stars": "40,241",
-      "today": "452 stars today"
-    },
-    {
-      "name": "cactus-compute//needle",
-      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "lang": "Python",
-      "stars": "6,813",
-      "today": "443 stars today"
+      "stars": "53,275",
+      "today": "344 stars today"
     }
   ]
 }

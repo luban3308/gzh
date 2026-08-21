@@ -1,89 +1,96 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "repos": [
     {
       "name": "harry0703//MoneyPrinterTurbo",
       "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "lang": "Python",
-      "stars": "109,113",
-      "today": "2,304 stars today"
-    },
-    {
-      "name": "chaitanyagiri//munder-difflin",
-      "desc": "local multi-agent harness",
-      "lang": "TypeScript",
-      "stars": "2,270",
-      "today": "306 stars today"
-    },
-    {
-      "name": "akitaonrails//ai-memory",
-      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "lang": "Rust",
-      "stars": "2,918",
-      "today": "648 stars today"
+      "stars": "111,674",
+      "today": "2,221 stars today"
     },
     {
       "name": "volcengine//OpenViking",
       "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "lang": "Python",
-      "stars": "29,648",
-      "today": "213 stars today"
+      "stars": "30,523",
+      "today": "804 stars today"
+    },
+    {
+      "name": "chaitanyagiri//munder-difflin",
+      "desc": "local multi-agent harness",
+      "lang": "TypeScript",
+      "stars": "2,833",
+      "today": "795 stars today"
     },
     {
       "name": "mukul975//Anthropic-Cybersecurity-Skills",
       "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "lang": "Python",
-      "stars": "29,387",
-      "today": "730 stars today"
+      "stars": "30,047",
+      "today": "766 stars today"
     },
     {
-      "name": "public-apis//public-apis",
-      "desc": "A collective list of free APIs",
-      "lang": "Python",
-      "stars": "464,991",
-      "today": "1,005 stars today"
+      "name": "nautechsystems//nautilus_trader",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "lang": "Rust",
+      "stars": "26,555",
+      "today": "80 stars today"
     },
     {
-      "name": "basecamp//omarchy",
-      "desc": "Beautiful, Modern & Opinionated Linux",
+      "name": "mattpocock//skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
       "lang": "Shell",
-      "stars": "26,553",
-      "today": "356 stars today"
+      "stars": "224,312",
+      "today": "1,894 stars today"
     },
     {
-      "name": "agalwood//Motrix",
-      "desc": "A full-featured download manager.",
-      "lang": "TypeScript",
-      "stars": "53,855",
-      "today": "609 stars today"
-    },
-    {
-      "name": "NawfalMotii79//PLFM_RADAR",
-      "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "lang": "PLSQL",
-      "stars": "24,416",
-      "today": "192 stars today"
+      "name": "obra//superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars": "274,459",
+      "today": "557 stars today"
     },
     {
       "name": "jundot//omlx",
       "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "lang": "Python",
-      "stars": "19,538",
-      "today": "370 stars today"
+      "stars": "19,920",
+      "today": "472 stars today"
+    },
+    {
+      "name": "santifer//career-ops",
+      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "lang": "JavaScript",
+      "stars": "66,028",
+      "today": "198 stars today"
+    },
+    {
+      "name": "immich-app//immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "lang": "TypeScript",
+      "stars": "112,020",
+      "today": "128 stars today"
+    },
+    {
+      "name": "amadeusprotocol//node",
+      "desc": "",
+      "lang": "Rust",
+      "stars": "4,806",
+      "today": "1,397 stars today"
+    },
+    {
+      "name": "marceloprates//prettymaps",
+      "desc": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "lang": "Python",
+      "stars": "13,322",
+      "today": "63 stars today"
     },
     {
       "name": "genlayerlabs//genlayer-project-boilerplate",
       "desc": "",
       "lang": "TypeScript",
-      "stars": "16,054",
-      "today": "535 stars today"
-    },
-    {
-      "name": "OpenCut-app//OpenCut",
-      "desc": "The open-source CapCut alternative",
-      "lang": "TypeScript",
-      "stars": "84,965",
-      "today": "192 stars today"
+      "stars": "16,256",
+      "today": "430 stars today"
     }
   ]
 }

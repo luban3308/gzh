@@ -665,10 +665,22 @@
       "url": "https://www.163.com/dy/article/L564K8G00553JMK2.html",
       "pub_time": "2026-08-25 11:44",
       "fetched_at": "2026-08-25T08:01:02.368004"
+    },
+    "https://www.163.com/dy/article/L58MQQTN0553JMK2.html": {
+      "title": "你把别人当自己，你能当主管，你把自己不当人，你能当高管",
+      "url": "https://www.163.com/dy/article/L58MQQTN0553JMK2.html",
+      "pub_time": "2026-08-26 11:43",
+      "fetched_at": "2026-08-26T08:01:05.180220"
+    },
+    "https://www.163.com/dy/article/L589LRGO0553JMK2.html": {
+      "title": "人再笨，还能学不会个巴菲特？",
+      "url": "https://www.163.com/dy/article/L589LRGO0553JMK2.html",
+      "pub_time": "2026-08-26 07:55",
+      "fetched_at": "2026-08-26T08:01:06.911603"
     }
   },
   "last_check": {
-    "time": "2026-08-25T08:00:56.681658",
+    "time": "2026-08-26T08:01:00.349814",
     "saved": 2,
     "errors": 0
   }

@@ -677,10 +677,22 @@
       "url": "https://www.163.com/dy/article/L589LRGO0553JMK2.html",
       "pub_time": "2026-08-26 07:55",
       "fetched_at": "2026-08-26T08:01:06.911603"
+    },
+    "https://www.163.com/dy/article/L5B90PV90553JMK2.html": {
+      "title": "年轻人为啥主动放弃了整顿职场？",
+      "url": "https://www.163.com/dy/article/L5B90PV90553JMK2.html",
+      "pub_time": "2026-08-27 11:43",
+      "fetched_at": "2026-08-27T08:00:56.926826"
+    },
+    "https://www.163.com/dy/article/L5ASFMII0553JMK2.html": {
+      "title": "麻瓜想翻身，你得学会把法师拖进泥坑里揍他",
+      "url": "https://www.163.com/dy/article/L5ASFMII0553JMK2.html",
+      "pub_time": "2026-08-27 08:03",
+      "fetched_at": "2026-08-27T08:00:57.909644"
     }
   },
   "last_check": {
-    "time": "2026-08-26T08:01:00.349814",
+    "time": "2026-08-27T08:00:52.491316",
     "saved": 2,
     "errors": 0
   }

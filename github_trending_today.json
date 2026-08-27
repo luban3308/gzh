@@ -1,138 +1,117 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "repos": [
     {
-      "name": "Alishahryar1//free-claude-code",
-      "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "lang": "Python",
-      "stars": "49,302",
-      "today": "891 stars today"
-    },
-    {
-      "name": "openai//codex",
-      "desc": "Lightweight coding agent that runs in your terminal",
-      "lang": "Rust",
-      "stars": "117,501",
-      "today": "1,994 stars today"
-    },
-    {
-      "name": "MadsLorentzen//ai-job-search",
-      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "lang": "Python",
-      "stars": "34,388",
-      "today": "434 stars today"
-    },
-    {
-      "name": "multica-ai//andrej-karpathy-skills",
-      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "lang": "",
-      "stars": "206,748",
-      "today": "588 stars today"
-    },
-    {
-      "name": "makeplane//plane",
-      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "lang": "TypeScript",
-      "stars": "58,098",
-      "today": "243 stars today"
-    },
-    {
-      "name": "NousResearch//hermes-agent",
-      "desc": "The agent that grows with you",
-      "lang": "Python",
-      "stars": "236,014",
-      "today": "896 stars today"
+      "name": "freestylefly//awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars": "19,401",
+      "today": "1,698 stars today"
     },
     {
       "name": "anthropics//claude-plugins-community",
       "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "lang": "Python",
-      "stars": "1,474",
-      "today": "489 stars today"
+      "stars": "1,907",
+      "today": "351 stars today"
     },
     {
-      "name": "AprilNEA//OpenLogi",
-      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "lang": "Rust",
-      "stars": "16,066",
-      "today": "1,097 stars today"
+      "name": "MadsLorentzen//ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars": "35,642",
+      "today": "1,265 stars today"
     },
     {
       "name": "apache//maka",
       "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "lang": "TypeScript",
-      "stars": "3,036",
-      "today": "411 stars today"
+      "stars": "3,468",
+      "today": "543 stars today"
     },
     {
-      "name": "PostHog//posthog",
-      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "name": "TauricResearch//TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "lang": "Python",
-      "stars": "39,069",
-      "today": "83 stars today"
-    },
-    {
-      "name": "openclaw//openclaw",
-      "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "lang": "TypeScript",
-      "stars": "387,503",
-      "today": "173 stars today"
+      "stars": "100,481",
+      "today": "218 stars today"
     },
     {
       "name": "AgriciDaniel//claude-obsidian",
       "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "lang": "Python",
-      "stars": "12,129",
-      "today": "310 stars today"
+      "stars": "12,944",
+      "today": "813 stars today"
     },
     {
       "name": "rohitg00//ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
       "lang": "Python",
-      "stars": "48,450",
-      "today": "349 stars today"
-    },
-    {
-      "name": "basecamp//omarchy",
-      "desc": "Beautiful, Modern & Opinionated Linux",
-      "lang": "Shell",
-      "stars": "30,445",
-      "today": "1,056 stars today"
-    },
-    {
-      "name": "tashfeenahmed//freellmapi",
-      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "lang": "TypeScript",
-      "stars": "19,950",
-      "today": "174 stars today"
-    },
-    {
-      "name": "dani-garcia//vaultwarden",
-      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "lang": "Rust",
-      "stars": "66,167",
-      "today": "175 stars today"
-    },
-    {
-      "name": "freestylefly//awesome-gpt-image-2",
-      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "lang": "JavaScript",
-      "stars": "16,077",
-      "today": "2,449 stars today"
-    },
-    {
-      "name": "VoltAgent//awesome-agent-skills",
-      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "lang": "",
-      "stars": "32,057",
-      "today": "602 stars today"
+      "stars": "49,253",
+      "today": "569 stars today"
     },
     {
       "name": "tinyhumansai//openhuman",
       "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "lang": "Rust",
-      "stars": "37,420",
-      "today": "515 stars today"
+      "stars": "37,908",
+      "today": "542 stars today"
+    },
+    {
+      "name": "basecamp//omarchy",
+      "desc": "Beautiful, Modern & Opinionated Linux",
+      "lang": "Shell",
+      "stars": "31,514",
+      "today": "1,083 stars today"
+    },
+    {
+      "name": "Shubhamsaboo//awesome-llm-apps",
+      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "lang": "Python",
+      "stars": "134,388",
+      "today": "161 stars today"
+    },
+    {
+      "name": "multica-ai//andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "",
+      "stars": "207,377",
+      "today": "830 stars today"
+    },
+    {
+      "name": "openai//codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "lang": "Rust",
+      "stars": "118,413",
+      "today": "1,181 stars today"
+    },
+    {
+      "name": "marin-community//marin",
+      "desc": "Open-source framework for the research and development of foundation models.",
+      "lang": "Python",
+      "stars": "2,256",
+      "today": "231 stars today"
+    },
+    {
+      "name": "DietrichGebert//ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars": "111,463",
+      "today": "982 stars today"
+    },
+    {
+      "name": "anthropics//claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars": "34,164",
+      "today": "55 stars today"
+    },
+    {
+      "name": "asciimoo//hister",
+      "desc": "Your own search engine",
+      "lang": "Go",
+      "stars": "2,919",
+      "today": "98 stars today"
     }
   ]
 }

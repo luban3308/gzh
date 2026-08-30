@@ -713,11 +713,17 @@
       "url": "https://www.163.com/dy/article/L5FVL3OF0553JMK2.html",
       "pub_time": "2026-08-29 07:34",
       "fetched_at": "2026-08-29T08:01:30.677788"
+    },
+    "https://www.163.com/dy/article/L5IIKREP0553JMK2.html": {
+      "title": "不要当别人傻，更不要当别人瞎",
+      "url": "https://www.163.com/dy/article/L5IIKREP0553JMK2.html",
+      "pub_time": "2026-08-30 07:42",
+      "fetched_at": "2026-08-30T08:01:19.275815"
     }
   },
   "last_check": {
-    "time": "2026-08-29T08:01:24.686012",
-    "saved": 2,
+    "time": "2026-08-30T08:01:14.892944",
+    "saved": 1,
     "errors": 0
   }
 }

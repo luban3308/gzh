@@ -719,11 +719,23 @@
       "url": "https://www.163.com/dy/article/L5IIKREP0553JMK2.html",
       "pub_time": "2026-08-30 07:42",
       "fetched_at": "2026-08-30T08:01:19.275815"
+    },
+    "https://www.163.com/dy/article/L5L5RPMU0553JMK2.html": {
+      "title": "没背景的孩子，怎么才能给自己谋个前途？",
+      "url": "https://www.163.com/dy/article/L5L5RPMU0553JMK2.html",
+      "pub_time": "2026-08-31 07:57",
+      "fetched_at": "2026-08-31T08:00:58.849238"
+    },
+    "https://www.163.com/dy/article/L5J3548A0553JMK2.html": {
+      "title": "总算有人能看懂了",
+      "url": "https://www.163.com/dy/article/L5J3548A0553JMK2.html",
+      "pub_time": "2026-08-30 12:31",
+      "fetched_at": "2026-08-31T08:00:59.821626"
     }
   },
   "last_check": {
-    "time": "2026-08-30T08:01:14.892944",
-    "saved": 1,
+    "time": "2026-08-31T08:00:54.682148",
+    "saved": 2,
     "errors": 0
   }
 }

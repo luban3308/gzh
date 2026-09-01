@@ -1,138 +1,138 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "repos": [
     {
-      "name": "tt-a1i//archify",
-      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "lang": "JavaScript",
-      "stars": "31,939",
-      "today": "3,902 stars today"
-    },
-    {
-      "name": "bilawalsidhu//gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
-      "stars": "12,943",
-      "today": "1,855 stars today"
+      "name": "THU-MAIC//OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "lang": "TypeScript",
+      "stars": "24,967",
+      "today": "1,370 stars today"
     },
     {
       "name": "K-Dense-AI//scientific-agent-skills",
       "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "lang": "Python",
-      "stars": "38,142",
-      "today": "1,587 stars today"
+      "stars": "39,852",
+      "today": "1,114 stars today"
     },
     {
-      "name": "tailscale//tailcat",
-      "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "lang": "Go",
-      "stars": "3,739",
-      "today": "789 stars today"
+      "name": "Lakr233//vphone-cli",
+      "desc": "",
+      "lang": "Swift",
+      "stars": "9,825",
+      "today": "361 stars today"
     },
     {
-      "name": "THU-MAIC//OpenMAIC",
-      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "lang": "TypeScript",
-      "stars": "22,590",
-      "today": "907 stars today"
+      "name": "tt-a1i//archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "lang": "JavaScript",
+      "stars": "35,934",
+      "today": "3,722 stars today"
     },
     {
       "name": "p-e-w//heretic",
       "desc": "Fully automatic censorship removal for language models",
       "lang": "Python",
-      "stars": "28,806",
-      "today": "150 stars today"
+      "stars": "29,318",
+      "today": "369 stars today"
     },
     {
-      "name": "bigskysoftware//htmx",
-      "desc": "</> htmx - high power tools for HTML",
-      "lang": "JavaScript",
-      "stars": "49,175",
-      "today": "32 stars today"
+      "name": "unclecode//crawl4ai",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "lang": "Python",
+      "stars": "80,414",
+      "today": "221 stars today"
     },
     {
-      "name": "JetBrains//go-modern-guidelines",
-      "desc": "Help AI coding agents write modern Go",
+      "name": "mvanhorn//last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars": "60,654",
+      "today": "230 stars today"
+    },
+    {
+      "name": "majd//ipatool",
+      "desc": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "lang": "Go",
-      "stars": "2,919",
-      "today": "303 stars today"
+      "stars": "10,329",
+      "today": "58 stars today"
     },
     {
-      "name": "ComposioHQ//awesome-claude-skills",
-      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "lang": "Python",
-      "stars": "73,988",
-      "today": "73 stars today"
+      "name": "punkpeye//awesome-mcp-servers",
+      "desc": "A collection of MCP servers.",
+      "lang": "",
+      "stars": "93,477",
+      "today": "96 stars today"
     },
     {
-      "name": "calesthio//OpenMontage",
-      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "name": "checkstyle//checkstyle",
+      "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "lang": "Java",
+      "stars": "9,258",
+      "today": "115 stars today"
+    },
+    {
+      "name": "NationalSecurityAgency//ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars": "74,036",
+      "today": "198 stars today"
+    },
+    {
+      "name": "pollen-robotics//microduck_rl",
+      "desc": "RL training environments for Microduck (mjlab)",
       "lang": "Python",
-      "stars": "54,237",
-      "today": "806 stars today"
+      "stars": "911",
+      "today": "168 stars today"
+    },
+    {
+      "name": "handsomestWei//patent-disclosure-skill",
+      "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "lang": "Python",
+      "stars": "5,917",
+      "today": "62 stars today"
+    },
+    {
+      "name": "corsairdev//corsair",
+      "desc": "Connect your users to their apps",
+      "lang": "TypeScript",
+      "stars": "11,055",
+      "today": "126 stars today"
     },
     {
       "name": "every-app//open-seo",
       "desc": "Open source alternative to Semrush and Ahrefs",
       "lang": "TypeScript",
-      "stars": "14,759",
-      "today": "517 stars today"
+      "stars": "15,351",
+      "today": "469 stars today"
     },
     {
-      "name": "Osmantic//ODS",
-      "desc": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "lang": "Python",
-      "stars": "5,052",
-      "today": "35 stars today"
-    },
-    {
-      "name": "abi//screenshot-to-code",
-      "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "lang": "Python",
-      "stars": "76,135",
-      "today": "550 stars today"
-    },
-    {
-      "name": "anthropics//claude-plugins-official",
-      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "lang": "Python",
-      "stars": "35,507",
-      "today": "358 stars today"
-    },
-    {
-      "name": "google//googletest",
-      "desc": "GoogleTest - Google Testing and Mocking Framework",
-      "lang": "C++",
-      "stars": "39,344",
-      "today": "128 stars today"
-    },
-    {
-      "name": "actions//checkout",
-      "desc": "Action for checking out a repo",
+      "name": "colinhacks//zod",
+      "desc": "TypeScript-first schema validation with static type inference",
       "lang": "TypeScript",
-      "stars": "8,816",
-      "today": "5 stars today"
+      "stars": "43,688",
+      "today": "31 stars today"
     },
     {
-      "name": "kaifcodec//user-scanner",
-      "desc": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
+      "name": "tashfeenahmed//freellmapi",
+      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "lang": "TypeScript",
+      "stars": "23,021",
+      "today": "504 stars today"
+    },
+    {
+      "name": "livekit//agents",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "lang": "Python",
-      "stars": "3,733",
-      "today": "39 stars today"
+      "stars": "13,854",
+      "today": "132 stars today"
     },
     {
-      "name": "addyosmani//agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "lang": "JavaScript",
-      "stars": "90,799",
-      "today": "196 stars today"
-    },
-    {
-      "name": "workweave//router",
-      "desc": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "lang": "Go",
-      "stars": "2,888",
-      "today": "284 stars today"
+      "name": "abhigyanpatwari//GitNexus",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "lang": "TypeScript",
+      "stars": "46,658",
+      "today": "182 stars today"
     }
   ]
 }

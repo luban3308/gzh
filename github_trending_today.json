@@ -1,117 +1,103 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "repos": [
+    {
+      "name": "Gitlawb//openclaude",
+      "desc": "runs anywhere. uses anything",
+      "lang": "TypeScript",
+      "stars": "31,560",
+      "today": "80 stars today"
+    },
+    {
+      "name": "Imbad0202//academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "lang": "Python",
+      "stars": "45,161",
+      "today": "193 stars today"
+    },
     {
       "name": "THU-MAIC//OpenMAIC",
       "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "lang": "TypeScript",
-      "stars": "28,060",
-      "today": "2,824 stars today"
+      "stars": "29,893",
+      "today": "3,128 stars today"
     },
     {
-      "name": "tt-a1i//archify",
-      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "lang": "JavaScript",
-      "stars": "39,932",
-      "today": "3,991 stars today"
-    },
-    {
-      "name": "K-Dense-AI//scientific-agent-skills",
-      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "lang": "Python",
-      "stars": "41,017",
-      "today": "1,980 stars today"
-    },
-    {
-      "name": "k1tbyte//Wand-Enhancer",
-      "desc": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "lang": "C#",
-      "stars": "23,486",
-      "today": "582 stars today"
-    },
-    {
-      "name": "majd//ipatool",
-      "desc": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "lang": "Go",
-      "stars": "10,643",
-      "today": "373 stars today"
+      "name": "iv-org//invidious",
+      "desc": "Invidious is an alternative front-end to YouTube",
+      "lang": "Crystal",
+      "stars": "23,871",
+      "today": "577 stars today"
     },
     {
       "name": "jingyaogong//minimind",
       "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "lang": "Python",
-      "stars": "56,468",
-      "today": "495 stars today"
+      "stars": "57,376",
+      "today": "1,005 stars today"
     },
     {
-      "name": "Osmantic//ODS",
-      "desc": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "name": "3b1b//manim",
+      "desc": "Animation engine for explanatory math videos",
       "lang": "Python",
-      "stars": "5,662",
-      "today": "77 stars today"
-    },
-    {
-      "name": "checkstyle//checkstyle",
-      "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-      "lang": "Java",
-      "stars": "9,469",
-      "today": "198 stars today"
-    },
-    {
-      "name": "zhaoxuya520//reverse-skill",
-      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "lang": "PowerShell",
-      "stars": "33,434",
-      "today": "1,401 stars today"
-    },
-    {
-      "name": "affaan-m//ECC",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "lang": "JavaScript",
-      "stars": "245,393",
-      "today": "512 stars today"
-    },
-    {
-      "name": "kaifcodec//user-scanner",
-      "desc": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
-      "lang": "Python",
-      "stars": "4,418",
-      "today": "93 stars today"
-    },
-    {
-      "name": "every-app//open-seo",
-      "desc": "Open source alternative to Semrush and Ahrefs",
-      "lang": "TypeScript",
-      "stars": "15,886",
-      "today": "610 stars today"
-    },
-    {
-      "name": "p-e-w//heretic",
-      "desc": "Fully automatic censorship removal for language models",
-      "lang": "Python",
-      "stars": "29,787",
-      "today": "537 stars today"
-    },
-    {
-      "name": "handsomestWei//patent-disclosure-skill",
-      "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "lang": "Python",
-      "stars": "6,430",
-      "today": "571 stars today"
+      "stars": "92,695",
+      "today": "86 stars today"
     },
     {
       "name": "firecrawl//pdf-inspector",
       "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "lang": "Rust",
-      "stars": "17,525",
-      "today": "228 stars today"
+      "stars": "18,116",
+      "today": "541 stars today"
     },
     {
-      "name": "pollen-robotics//microduck_rl",
-      "desc": "RL training environments for Microduck (mjlab)",
+      "name": "browser-use//video-use",
+      "desc": "Edit videos with coding agents",
       "lang": "Python",
-      "stars": "1,273",
-      "today": "385 stars today"
+      "stars": "23,177",
+      "today": "472 stars today"
+    },
+    {
+      "name": "K-Dense-AI//scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars": "41,778",
+      "today": "912 stars today"
+    },
+    {
+      "name": "handsomestWei//patent-disclosure-skill",
+      "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "lang": "Python",
+      "stars": "6,902",
+      "today": "501 stars today"
+    },
+    {
+      "name": "VoltAgent//awesome-design-md",
+      "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "lang": "",
+      "stars": "113,154",
+      "today": "323 stars today"
+    },
+    {
+      "name": "averygan//reclip",
+      "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "lang": "HTML",
+      "stars": "7,894",
+      "today": "56 stars today"
+    },
+    {
+      "name": "affaan-m//ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars": "245,881",
+      "today": "623 stars today"
+    },
+    {
+      "name": "unclecode//crawl4ai",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "lang": "Python",
+      "stars": "80,971",
+      "today": "145 stars today"
     }
   ]
 }

@@ -779,11 +779,17 @@
       "url": "https://www.163.com/dy/article/L5VDS1VA0553JMK2.html",
       "pub_time": "2026-09-04 07:29",
       "fetched_at": "2026-09-04T08:00:12.848306"
+    },
+    "https://www.163.com/dy/article/L8KROGON0553JMK2.html": {
+      "title": "臣妾真的做不到啊........",
+      "url": "https://www.163.com/dy/article/L8KROGON0553JMK2.html",
+      "pub_time": "2026-10-07 11:48",
+      "fetched_at": "2026-10-08T08:02:08.159176"
     }
   },
   "last_check": {
-    "time": "2026-09-04T08:00:06.642778",
-    "saved": 2,
+    "time": "2026-10-08T08:02:03.913143",
+    "saved": 1,
     "errors": 0
   }
 }

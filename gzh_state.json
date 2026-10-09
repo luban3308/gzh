@@ -785,11 +785,23 @@
       "url": "https://www.163.com/dy/article/L8KROGON0553JMK2.html",
       "pub_time": "2026-10-07 11:48",
       "fetched_at": "2026-10-08T08:02:08.159176"
+    },
+    "https://www.163.com/dy/article/L8PV6TEK0553JMK2.html": {
+      "title": "这个为众人抱薪的吹哨人医生，为什么冻毙于风雪？",
+      "url": "https://www.163.com/dy/article/L8PV6TEK0553JMK2.html",
+      "pub_time": "2026-10-09 11:20",
+      "fetched_at": "2026-10-09T08:00:06.543475"
+    },
+    "https://www.163.com/dy/article/L8PI39420553JMK2.html": {
+      "title": "你该不会希望自己的孩子，成长为罗永浩吧？",
+      "url": "https://www.163.com/dy/article/L8PI39420553JMK2.html",
+      "pub_time": "2026-10-09 07:33",
+      "fetched_at": "2026-10-09T08:00:07.524654"
     }
   },
   "last_check": {
-    "time": "2026-10-08T08:02:03.913143",
-    "saved": 1,
+    "time": "2026-10-09T08:00:02.312166",
+    "saved": 2,
     "errors": 0
   }
 }

@@ -1,96 +1,68 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "repos": [
-    {
-      "name": "morluto//rea",
-      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "lang": "TypeScript",
-      "stars": "17,500",
-      "today": "4,655 stars today"
-    },
-    {
-      "name": "mattpocock//skills",
-      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "lang": "Shell",
-      "stars": "280,103",
-      "today": "1,403 stars today"
-    },
     {
       "name": "boykopovar//AnyPS5",
       "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
       "lang": "C++",
-      "stars": "11,649",
-      "today": "2,716 stars today"
-    },
-    {
-      "name": "ayghri//i-have-adhd",
-      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "lang": "Python",
-      "stars": "55,401",
-      "today": "619 stars today"
+      "stars": "17,092",
+      "today": "4,669 stars today"
     },
     {
       "name": "cathrynlavery//diagram-design",
       "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "lang": "HTML",
-      "stars": "45,320",
-      "today": "825 stars today"
+      "stars": "46,875",
+      "today": "1,160 stars today"
     },
     {
-      "name": "addyosmani//agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "lang": "JavaScript",
-      "stars": "103,021",
-      "today": "677 stars today"
+      "name": "morluto//rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars": "31,047",
+      "today": "7,738 stars today"
     },
     {
-      "name": "EpicGames//raddebugger",
-      "desc": "A native, user-mode, multi-process, graphical debugger.",
-      "lang": "C",
-      "stars": "7,942",
-      "today": "90 stars today"
+      "name": "mattpocock//skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars": "281,538",
+      "today": "1,774 stars today"
     },
     {
       "name": "thedotmack//claude-mem",
       "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "lang": "TypeScript",
-      "stars": "97,923",
-      "today": "578 stars today"
+      "stars": "98,713",
+      "today": "670 stars today"
     },
     {
-      "name": "manaflow-ai//cmux",
-      "desc": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "lang": "Swift",
-      "stars": "27,947",
-      "today": "44 stars today"
+      "name": "EpicGames//raddebugger",
+      "desc": "A native, user-mode, multi-process, graphical debugger.",
+      "lang": "C",
+      "stars": "8,179",
+      "today": "279 stars today"
     },
     {
-      "name": "trycua//cua",
-      "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "name": "anthropics//knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars": "27,843",
+      "today": "392 stars today"
+    },
+    {
+      "name": "storytold//artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "lang": "Rust",
-      "stars": "28,887",
-      "today": "228 stars today"
+      "stars": "8,897",
+      "today": "2,103 stars today"
     },
     {
-      "name": "cloudflare//security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "lang": "JavaScript",
-      "stars": "26,252",
-      "today": "576 stars today"
-    },
-    {
-      "name": "tester-army//e2e",
-      "desc": "Next generation e2e testing framework for web and mobile apps.",
-      "lang": "TypeScript",
-      "stars": "7,789",
-      "today": "1,390 stars today"
-    },
-    {
-      "name": "DuarteSantos8//openGym",
-      "desc": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "lang": "JavaScript",
-      "stars": "7,373",
-      "today": "1,493 stars today"
+      "name": "liquidslr//system-design-notes",
+      "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "lang": "",
+      "stars": "24,944",
+      "today": "393 stars today"
     }
   ]
 }

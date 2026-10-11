@@ -809,11 +809,17 @@
       "url": "https://www.163.com/dy/article/L8S52TIS0553JMK2.html",
       "pub_time": "2026-10-10 07:44",
       "fetched_at": "2026-10-10T08:01:36.293999"
+    },
+    "https://www.163.com/dy/article/L8ULRTC20553JMK2.html": {
+      "title": "在美国卖货，想下架顾客的测评，为什么这么难？",
+      "url": "https://www.163.com/dy/article/L8ULRTC20553JMK2.html",
+      "pub_time": "2026-10-11 07:16",
+      "fetched_at": "2026-10-11T08:02:06.144208"
     }
   },
   "last_check": {
-    "time": "2026-10-10T08:01:31.229946",
-    "saved": 2,
+    "time": "2026-10-11T08:02:02.051017",
+    "saved": 1,
     "errors": 0
   }
 }

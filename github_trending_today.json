@@ -1,82 +1,96 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "repos": [
     {
       "name": "morluto//rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "lang": "TypeScript",
-      "stars": "54,216",
-      "today": "14,927 stars today"
+      "stars": "79,434",
+      "today": "25,793 stars today"
     },
     {
       "name": "boykopovar//AnyPS5",
       "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
       "lang": "C++",
-      "stars": "23,365",
-      "today": "5,868 stars today"
-    },
-    {
-      "name": "mattpocock//skills",
-      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "lang": "Shell",
-      "stars": "283,206",
-      "today": "1,687 stars today"
-    },
-    {
-      "name": "cathrynlavery//diagram-design",
-      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "lang": "HTML",
-      "stars": "48,209",
-      "today": "1,739 stars today"
-    },
-    {
-      "name": "alibaba//open-code-review",
-      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "lang": "Go",
-      "stars": "45,519",
-      "today": "326 stars today"
-    },
-    {
-      "name": "anthropics//knowledge-work-plugins",
-      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "lang": "Python",
-      "stars": "28,433",
-      "today": "709 stars today"
-    },
-    {
-      "name": "BerriAI//litellm",
-      "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "lang": "Python",
-      "stars": "60,791",
-      "today": "95 stars today"
-    },
-    {
-      "name": "addyosmani//agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "lang": "JavaScript",
-      "stars": "104,180",
-      "today": "436 stars today"
+      "stars": "27,561",
+      "today": "5,805 stars today"
     },
     {
       "name": "storytold//artcraft",
       "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "lang": "Rust",
-      "stars": "12,222",
-      "today": "3,752 stars today"
+      "stars": "15,185",
+      "today": "3,222 stars today"
     },
     {
-      "name": "Robbyant//lingbot-map",
-      "desc": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "name": "cathrynlavery//diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars": "49,252",
+      "today": "1,190 stars today"
+    },
+    {
+      "name": "mksglu//context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars": "26,453",
+      "today": "178 stars today"
+    },
+    {
+      "name": "mattpocock//skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars": "284,907",
+      "today": "1,736 stars today"
+    },
+    {
+      "name": "flutter//flutter",
+      "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "lang": "Dart",
+      "stars": "179,642",
+      "today": "88 stars today"
+    },
+    {
+      "name": "tensorflow//tensorflow",
+      "desc": "An Open Source Machine Learning Framework for Everyone",
+      "lang": "C++",
+      "stars": "200,795",
+      "today": "26 stars today"
+    },
+    {
+      "name": "hugohe3//ppt-master",
+      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "lang": "Python",
-      "stars": "17,814",
-      "today": "110 stars today"
+      "stars": "59,768",
+      "today": "461 stars today"
     },
     {
-      "name": "twostraws//SwiftUI-Agent-Skill",
-      "desc": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "name": "pytorch//pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "lang": "Python",
+      "stars": "104,206",
+      "today": "84 stars today"
+    },
+    {
+      "name": "huggingface//transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "lang": "Python",
+      "stars": "167,390",
+      "today": "96 stars today"
+    },
+    {
+      "name": "anthropics//knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars": "28,927",
+      "today": "625 stars today"
+    },
+    {
+      "name": "multica-ai//andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "lang": "",
-      "stars": "5,580",
-      "today": "65 stars today"
+      "stars": "218,475",
+      "today": "278 stars today"
     }
   ]
 }

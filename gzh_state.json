@@ -833,11 +833,23 @@
       "url": "https://www.163.com/dy/article/L91MJ9E70553JMK2.html",
       "pub_time": "2026-10-12 11:28",
       "fetched_at": "2026-10-13T08:02:08.158152"
+    },
+    "https://www.163.com/dy/article/L96T2GAJ0553JMK2.html": {
+      "title": "为啥我明明对每个人都很好，却不被尊重？",
+      "url": "https://www.163.com/dy/article/L96T2GAJ0553JMK2.html",
+      "pub_time": "2026-10-14 11:55",
+      "fetched_at": "2026-10-14T08:00:51.469767"
+    },
+    "https://www.163.com/dy/article/L96DVEC30553JMK2.html": {
+      "title": "年轻人逆天改命有三宝？薄肌大水当黄毛？",
+      "url": "https://www.163.com/dy/article/L96DVEC30553JMK2.html",
+      "pub_time": "2026-10-14 07:40",
+      "fetched_at": "2026-10-14T08:00:52.415475"
     }
   },
   "last_check": {
-    "time": "2026-10-13T08:02:01.850373",
-    "saved": 3,
+    "time": "2026-10-14T08:00:47.201148",
+    "saved": 2,
     "errors": 0
   }
 }

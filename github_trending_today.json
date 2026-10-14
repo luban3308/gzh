@@ -1,61 +1,68 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "repos": [
     {
       "name": "morluto//rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "lang": "TypeScript",
-      "stars": "119,612",
-      "today": "25,599 stars today"
-    },
-    {
-      "name": "boykopovar//AnyPS5",
-      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "lang": "C++",
-      "stars": "30,933",
-      "today": "3,952 stars today"
-    },
-    {
-      "name": "storytold//artcraft",
-      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "lang": "Rust",
-      "stars": "19,016",
-      "today": "2,957 stars today"
-    },
-    {
-      "name": "cathrynlavery//diagram-design",
-      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "lang": "HTML",
-      "stars": "51,004",
-      "today": "1,083 stars today"
+      "stars": "174,212",
+      "today": "45,327 stars today"
     },
     {
       "name": "bilawalsidhu//gods-eye-view",
       "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "lang": "JavaScript",
-      "stars": "52,196",
-      "today": "886 stars today"
+      "stars": "54,185",
+      "today": "1,895 stars today"
     },
     {
-      "name": "pytorch//pytorch",
-      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "name": "mksglu//context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars": "27,558",
+      "today": "246 stars today"
+    },
+    {
+      "name": "storytold//artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars": "23,128",
+      "today": "4,095 stars today"
+    },
+    {
+      "name": "open-webui//open-webui",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "lang": "Python",
-      "stars": "104,632",
-      "today": "315 stars today"
+      "stars": "155,328",
+      "today": "157 stars today"
+    },
+    {
+      "name": "cathrynlavery//diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars": "53,072",
+      "today": "2,081 stars today"
     },
     {
       "name": "lyogavin//airllm",
-      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "lang": "Jupyter Notebook",
-      "stars": "36,772",
-      "today": "548 stars today"
+      "stars": "37,773",
+      "today": "879 stars today"
     },
     {
-      "name": "chrislgarry//Apollo-11",
-      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "lang": "Assembly",
-      "stars": "74,421",
-      "today": "466 stars today"
+      "name": "microsoft//BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "lang": "C++",
+      "stars": "41,027",
+      "today": "97 stars today"
+    },
+    {
+      "name": "Alishahryar1//free-claude-code",
+      "desc": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars": "59,520",
+      "today": "626 stars today"
     }
   ]
 }

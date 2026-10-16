@@ -1,68 +1,89 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-15",
   "repos": [
     {
       "name": "morluto//rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "lang": "TypeScript",
-      "stars": "174,212",
-      "today": "45,327 stars today"
+      "stars": "251,717",
+      "today": "41,034 stars today"
     },
     {
-      "name": "bilawalsidhu//gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
-      "stars": "54,185",
-      "today": "1,895 stars today"
+      "name": "debpalash//VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars": "67,231",
+      "today": "3,538 stars today"
     },
     {
       "name": "mksglu//context-mode",
       "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "lang": "TypeScript",
-      "stars": "27,558",
-      "today": "246 stars today"
+      "stars": "29,379",
+      "today": "947 stars today"
     },
     {
-      "name": "storytold//artcraft",
-      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "name": "nvm-sh//nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "lang": "Shell",
+      "stars": "95,503",
+      "today": "52 stars today"
+    },
+    {
+      "name": "K-Dense-AI//scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars": "49,672",
+      "today": "163 stars today"
+    },
+    {
+      "name": "HKUDS//CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "lang": "Python",
+      "stars": "52,754",
+      "today": "103 stars today"
+    },
+    {
+      "name": "ifixai-ai//iFixAi",
+      "desc": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "lang": "Python",
+      "stars": "27,860",
+      "today": "2,109 stars today"
+    },
+    {
+      "name": "vxcontrol//pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "lang": "Go",
+      "stars": "29,960",
+      "today": "1,025 stars today"
+    },
+    {
+      "name": "rust-lang//rust",
+      "desc": "Empowering everyone to build reliable and efficient software.",
       "lang": "Rust",
-      "stars": "23,128",
-      "today": "4,095 stars today"
+      "stars": "120,178",
+      "today": "207 stars today"
     },
     {
-      "name": "open-webui//open-webui",
-      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "lang": "Python",
-      "stars": "155,328",
-      "today": "157 stars today"
+      "name": "xtool-org//xtool",
+      "desc": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "lang": "Swift",
+      "stars": "11,196",
+      "today": "1,502 stars today"
     },
     {
-      "name": "cathrynlavery//diagram-design",
-      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "lang": "HTML",
-      "stars": "53,072",
-      "today": "2,081 stars today"
+      "name": "ntdevlabs//tiny11builder",
+      "desc": "WinUI app for building smaller, customized Windows 11 images.",
+      "lang": "C#",
+      "stars": "20,377",
+      "today": "139 stars today"
     },
     {
-      "name": "lyogavin//airllm",
-      "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
-      "lang": "Jupyter Notebook",
-      "stars": "37,773",
-      "today": "879 stars today"
-    },
-    {
-      "name": "microsoft//BitNet",
-      "desc": "Official inference framework for 1-bit LLMs",
-      "lang": "C++",
-      "stars": "41,027",
-      "today": "97 stars today"
-    },
-    {
-      "name": "Alishahryar1//free-claude-code",
-      "desc": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "lang": "Python",
-      "stars": "59,520",
-      "today": "626 stars today"
+      "name": "NationalSecurityAgency//ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars": "87,883",
+      "today": "1,008 stars today"
     }
   ]
 }

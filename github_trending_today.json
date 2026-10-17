@@ -1,89 +1,96 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "repos": [
     {
       "name": "morluto//rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "lang": "TypeScript",
-      "stars": "251,717",
-      "today": "41,034 stars today"
+      "stars": "277,519",
+      "today": "32,314 stars today"
     },
     {
-      "name": "debpalash//VoiceStudio",
-      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "name": "anthropics//claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "lang": "Python",
-      "stars": "67,231",
-      "today": "3,538 stars today"
-    },
-    {
-      "name": "mksglu//context-mode",
-      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "lang": "TypeScript",
-      "stars": "29,379",
-      "today": "947 stars today"
-    },
-    {
-      "name": "nvm-sh//nvm",
-      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "lang": "Shell",
-      "stars": "95,503",
-      "today": "52 stars today"
+      "stars": "39,467",
+      "today": "307 stars today"
     },
     {
       "name": "K-Dense-AI//scientific-agent-skills",
       "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "lang": "Python",
-      "stars": "49,672",
-      "today": "163 stars today"
+      "stars": "50,806",
+      "today": "1,091 stars today"
     },
     {
-      "name": "HKUDS//CLI-Anything",
-      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "lang": "Python",
-      "stars": "52,754",
-      "today": "103 stars today"
-    },
-    {
-      "name": "ifixai-ai//iFixAi",
-      "desc": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "lang": "Python",
-      "stars": "27,860",
-      "today": "2,109 stars today"
-    },
-    {
-      "name": "vxcontrol//pentagi",
-      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "name": "JuliusBrussee//caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "lang": "Go",
-      "stars": "29,960",
-      "today": "1,025 stars today"
+      "stars": "112,795",
+      "today": "433 stars today"
     },
     {
-      "name": "rust-lang//rust",
-      "desc": "Empowering everyone to build reliable and efficient software.",
-      "lang": "Rust",
-      "stars": "120,178",
-      "today": "207 stars today"
+      "name": "debpalash//VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars": "69,643",
+      "today": "3,024 stars today"
     },
     {
-      "name": "xtool-org//xtool",
-      "desc": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-      "lang": "Swift",
-      "stars": "11,196",
-      "today": "1,502 stars today"
+      "name": "obra//superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars": "300,159",
+      "today": "582 stars today"
     },
     {
-      "name": "ntdevlabs//tiny11builder",
-      "desc": "WinUI app for building smaller, customized Windows 11 images.",
-      "lang": "C#",
-      "stars": "20,377",
-      "today": "139 stars today"
+      "name": "ruvnet//ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars": "75,291",
+      "today": "147 stars today"
+    },
+    {
+      "name": "mksglu//context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars": "29,908",
+      "today": "904 stars today"
     },
     {
       "name": "NationalSecurityAgency//ghidra",
       "desc": "Ghidra is a software reverse engineering (SRE) framework",
       "lang": "Java",
-      "stars": "87,883",
-      "today": "1,008 stars today"
+      "stars": "89,051",
+      "today": "1,369 stars today"
+    },
+    {
+      "name": "affaan-m//ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars": "280,642",
+      "today": "1,013 stars today"
+    },
+    {
+      "name": "lightseekorg//tokenspeed",
+      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "lang": "Python",
+      "stars": "2,574",
+      "today": "30 stars today"
+    },
+    {
+      "name": "xerj-org//xerj",
+      "desc": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "lang": "Rust",
+      "stars": "5,981",
+      "today": "715 stars today"
+    },
+    {
+      "name": "LibreSpark//LibreTV",
+      "desc": "一分钟搭建影视站，支持Docker等部署方式",
+      "lang": "TypeScript",
+      "stars": "18,344",
+      "today": "978 stars today"
     }
   ]
 }

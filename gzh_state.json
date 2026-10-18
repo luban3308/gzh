@@ -869,11 +869,23 @@
       "url": "https://www.163.com/dy/article/L9E6A9BU0553JMK2.html",
       "pub_time": "2026-10-17 07:52",
       "fetched_at": "2026-10-17T08:01:45.022955"
+    },
+    "https://www.163.com/dy/article/L9GMQ1BS0553JMK2.html": {
+      "title": "AI降临，什么才是我们的三根救命毫毛？",
+      "url": "https://www.163.com/dy/article/L9GMQ1BS0553JMK2.html",
+      "pub_time": "2026-10-18 07:19",
+      "fetched_at": "2026-10-18T08:00:08.755191"
+    },
+    "https://www.163.com/dy/article/L9EKETSH0553JMK2.html": {
+      "title": "可我到底该怎么面对亲戚朋友的目光呢？",
+      "url": "https://www.163.com/dy/article/L9EKETSH0553JMK2.html",
+      "pub_time": "2026-10-17 12:25",
+      "fetched_at": "2026-10-18T08:00:09.746472"
     }
   },
   "last_check": {
-    "time": "2026-10-17T08:01:40.706343",
-    "saved": 1,
+    "time": "2026-10-18T08:00:04.148706",
+    "saved": 2,
     "errors": 0
   }
 }

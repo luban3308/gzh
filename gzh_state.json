@@ -893,11 +893,17 @@
       "url": "https://www.163.com/dy/article/L9J8RUKI0553JMK2.html",
       "pub_time": "2026-10-19 08:01",
       "fetched_at": "2026-10-19T08:00:07.320563"
+    },
+    "https://www.163.com/dy/article/L9KL6H3Q0553JMK2.html": {
+      "title": "大部分极端女权，究竟是不是性压抑？",
+      "url": "https://www.163.com/dy/article/L9KL6H3Q0553JMK2.html",
+      "pub_time": "2026-10-20 07:40",
+      "fetched_at": "2026-10-20T08:00:06.920987"
     }
   },
   "last_check": {
-    "time": "2026-10-19T08:00:02.409119",
-    "saved": 2,
+    "time": "2026-10-20T08:00:02.463752",
+    "saved": 1,
     "errors": 0
   }
 }

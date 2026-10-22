@@ -917,11 +917,23 @@
       "url": "https://www.163.com/dy/article/L9MGPTBQ0553JMK2.html",
       "pub_time": "2026-10-20 13:28",
       "fetched_at": "2026-10-21T08:00:08.551977"
+    },
+    "https://www.163.com/dy/article/L9PTFHN80553JMK2.html": {
+      "title": "人在江湖，身不由己",
+      "url": "https://www.163.com/dy/article/L9PTFHN80553JMK2.html",
+      "pub_time": "2026-10-22 11:40",
+      "fetched_at": "2026-10-22T08:00:06.543361"
+    },
+    "https://www.163.com/dy/article/L9PTA2NS0553JMK2.html": {
+      "title": "为啥我求人总是遭拒，他求人却畅通无阻？",
+      "url": "https://www.163.com/dy/article/L9PTA2NS0553JMK2.html",
+      "pub_time": "2026-10-22 07:40",
+      "fetched_at": "2026-10-22T08:00:07.495040"
     }
   },
   "last_check": {
-    "time": "2026-10-21T08:00:02.671475",
-    "saved": 3,
+    "time": "2026-10-22T08:00:02.357029",
+    "saved": 2,
     "errors": 0
   }
 }

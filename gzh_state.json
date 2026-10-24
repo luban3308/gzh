@@ -935,11 +935,23 @@
       "url": "https://www.163.com/dy/article/L9U0P85V0553JMK2.html",
       "pub_time": "2026-10-23 11:25",
       "fetched_at": "2026-10-23T08:00:10.670694"
+    },
+    "https://www.163.com/dy/article/LA0JH9950553JMK2.html": {
+      "title": "不是金钱斗不过权力，而是它失算了时间",
+      "url": "https://www.163.com/dy/article/LA0JH9950553JMK2.html",
+      "pub_time": "2026-10-24 11:30",
+      "fetched_at": "2026-10-24T08:00:08.673290"
+    },
+    "https://www.163.com/dy/article/LA09AI5T0553JMK2.html": {
+      "title": "我又双叒叕错过了一个亿？",
+      "url": "https://www.163.com/dy/article/LA09AI5T0553JMK2.html",
+      "pub_time": "2026-10-24 08:39",
+      "fetched_at": "2026-10-24T08:00:09.914875"
     }
   },
   "last_check": {
-    "time": "2026-10-23T08:00:02.717477",
-    "saved": 1,
+    "time": "2026-10-24T08:00:02.937641",
+    "saved": 2,
     "errors": 0
   }
 }

@@ -1,89 +1,68 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "repos": [
     {
-      "name": "cloudflare//security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "lang": "JavaScript",
-      "stars": "37,391",
-      "today": "2,012 stars today"
+      "name": "php//php-src",
+      "desc": "The PHP Interpreter",
+      "lang": "C",
+      "stars": "41,333",
+      "today": "287 stars today"
     },
     {
-      "name": "vllm-project//vllm",
-      "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "name": "anthropics//knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "lang": "Python",
-      "stars": "95,011",
-      "today": "441 stars today"
-    },
-    {
-      "name": "stablyai//orca",
-      "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "lang": "TypeScript",
-      "stars": "101,777",
-      "today": "1,541 stars today"
-    },
-    {
-      "name": "headroomlabs-ai//headroom",
-      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "lang": "Python",
-      "stars": "77,402",
-      "today": "474 stars today"
+      "stars": "31,782",
+      "today": "303 stars today"
     },
     {
       "name": "DietrichGebert//ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "lang": "JavaScript",
-      "stars": "172,130",
-      "today": "2,079 stars today"
+      "stars": "173,951",
+      "today": "1,948 stars today"
     },
     {
-      "name": "Comfy-Org//ComfyUI",
-      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "lang": "Python",
-      "stars": "141,719",
-      "today": "939 stars today"
-    },
-    {
-      "name": "supabase//supabase",
-      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "lang": "TypeScript",
-      "stars": "113,165",
-      "today": "504 stars today"
-    },
-    {
-      "name": "twentyhq//twenty",
-      "desc": "The open alternative to Salesforce, designed for AI.",
-      "lang": "TypeScript",
-      "stars": "59,379",
-      "today": "112 stars today"
-    },
-    {
-      "name": "shiyu-coder//Kronos",
-      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "lang": "Python",
-      "stars": "42,977",
-      "today": "575 stars today"
-    },
-    {
-      "name": "strelov1//freehire",
-      "desc": "freehire — the open-source search engine for job seekers",
-      "lang": "Go",
-      "stars": "2,543",
-      "today": "360 stars today"
-    },
-    {
-      "name": "akitaonrails//ai-memory",
-      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "lang": "Rust",
-      "stars": "12,525",
-      "today": "286 stars today"
+      "name": "cloudflare//security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars": "40,156",
+      "today": "2,979 stars today"
     },
     {
       "name": "Graphify-Labs//graphify",
       "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "lang": "Python",
-      "stars": "131,992",
-      "today": "1,433 stars today"
+      "stars": "133,311",
+      "today": "1,408 stars today"
+    },
+    {
+      "name": "supabase//supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars": "113,598",
+      "today": "693 stars today"
+    },
+    {
+      "name": "fastapi//fastapi",
+      "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "lang": "Python",
+      "stars": "103,931",
+      "today": "101 stars today"
+    },
+    {
+      "name": "luongnv89//claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars": "43,523",
+      "today": "177 stars today"
+    },
+    {
+      "name": "Meloong-Git//PCL",
+      "desc": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "lang": "Visual Basic .NET",
+      "stars": "8,792",
+      "today": "119 stars today"
     }
   ]
 }

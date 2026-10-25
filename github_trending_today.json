@@ -1,68 +1,61 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "repos": [
+    {
+      "name": "cloudflare//security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars": "42,613",
+      "today": "2,716 stars today"
+    },
     {
       "name": "php//php-src",
       "desc": "The PHP Interpreter",
       "lang": "C",
-      "stars": "41,333",
-      "today": "287 stars today"
+      "stars": "41,606",
+      "today": "716 stars today"
     },
     {
       "name": "anthropics//knowledge-work-plugins",
       "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "lang": "Python",
-      "stars": "31,782",
-      "today": "303 stars today"
+      "stars": "32,375",
+      "today": "635 stars today"
     },
     {
-      "name": "DietrichGebert//ponytail",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "lang": "JavaScript",
-      "stars": "173,951",
-      "today": "1,948 stars today"
+      "name": "NVIDIA//OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars": "18,966",
+      "today": "1,119 stars today"
     },
     {
-      "name": "cloudflare//security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "lang": "JavaScript",
-      "stars": "40,156",
-      "today": "2,979 stars today"
-    },
-    {
-      "name": "Graphify-Labs//graphify",
-      "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "lang": "Python",
-      "stars": "133,311",
-      "today": "1,408 stars today"
-    },
-    {
-      "name": "supabase//supabase",
-      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "name": "Renhuai123//ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "lang": "TypeScript",
-      "stars": "113,598",
-      "today": "693 stars today"
+      "stars": "7,052",
+      "today": "546 stars today"
     },
     {
-      "name": "fastapi//fastapi",
-      "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "name": "SnailSploit//Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "lang": "Python",
-      "stars": "103,931",
-      "today": "101 stars today"
+      "stars": "8,652",
+      "today": "226 stars today"
     },
     {
-      "name": "luongnv89//claude-howto",
-      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "name": "OpenBMB//VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "lang": "Python",
-      "stars": "43,523",
-      "today": "177 stars today"
+      "stars": "40,384",
+      "today": "150 stars today"
     },
     {
-      "name": "Meloong-Git//PCL",
-      "desc": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "lang": "Visual Basic .NET",
-      "stars": "8,792",
-      "today": "119 stars today"
+      "name": "nodejs//node",
+      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "lang": "JavaScript",
+      "stars": "122,975",
+      "today": "66 stars today"
     }
   ]
 }

@@ -1,61 +1,75 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "repos": [
     {
       "name": "cloudflare//security-audit-skill",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "lang": "JavaScript",
-      "stars": "42,613",
-      "today": "2,716 stars today"
-    },
-    {
-      "name": "php//php-src",
-      "desc": "The PHP Interpreter",
-      "lang": "C",
-      "stars": "41,606",
-      "today": "716 stars today"
-    },
-    {
-      "name": "anthropics//knowledge-work-plugins",
-      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "lang": "Python",
-      "stars": "32,375",
-      "today": "635 stars today"
+      "stars": "45,213",
+      "today": "2,264 stars today"
     },
     {
       "name": "NVIDIA//OpenShell",
       "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "lang": "Rust",
-      "stars": "18,966",
-      "today": "1,119 stars today"
+      "stars": "19,631",
+      "today": "896 stars today"
     },
     {
-      "name": "Renhuai123//ziwei-doushu",
-      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "name": "aws//agent-toolkit-for-aws",
+      "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "lang": "Python",
+      "stars": "3,211",
+      "today": "13 stars today"
+    },
+    {
+      "name": "Nutlope//hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars": "32,502",
+      "today": "455 stars today"
+    },
+    {
+      "name": "luongnv89//claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars": "44,738",
+      "today": "392 stars today"
+    },
+    {
+      "name": "pbakaus//impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "Rust",
+      "stars": "86,664",
+      "today": "619 stars today"
+    },
+    {
+      "name": "pollen-robotics//microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "lang": "Rust",
+      "stars": "11,156",
+      "today": "319 stars today"
+    },
+    {
+      "name": "google-gemini//gemini-cli",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "lang": "TypeScript",
-      "stars": "7,052",
-      "today": "546 stars today"
+      "stars": "108,240",
+      "today": "44 stars today"
     },
     {
-      "name": "SnailSploit//Claude-Red",
-      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "name": "jbiaojerry//ebook-treasure-chest",
+      "desc": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
       "lang": "Python",
-      "stars": "8,652",
-      "today": "226 stars today"
+      "stars": "22,863",
+      "today": "227 stars today"
     },
     {
-      "name": "OpenBMB//VoxCPM",
-      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "lang": "Python",
-      "stars": "40,384",
-      "today": "150 stars today"
-    },
-    {
-      "name": "nodejs//node",
-      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "lang": "JavaScript",
-      "stars": "122,975",
-      "today": "66 stars today"
+      "name": "makecindy//cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "lang": "TypeScript",
+      "stars": "4,272",
+      "today": "477 stars today"
     }
   ]
 }

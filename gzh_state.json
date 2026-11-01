@@ -1031,10 +1031,22 @@
       "url": "https://www.163.com/dy/article/LAI8A5840553JMK2.html",
       "pub_time": "2026-10-31 08:00",
       "fetched_at": "2026-10-31T08:03:05.748940"
+    },
+    "https://www.163.com/dy/article/LAL7VNF80553JMK2.html": {
+      "title": "怎么才能活得久？",
+      "url": "https://www.163.com/dy/article/LAL7VNF80553JMK2.html",
+      "pub_time": "2026-11-01 11:51",
+      "fetched_at": "2026-11-01T08:00:06.793439"
+    },
+    "https://www.163.com/dy/article/LAKPP9NI0553JMK2.html": {
+      "title": "为什么父母孩子老板客户，所有人，都说了不听？",
+      "url": "https://www.163.com/dy/article/LAKPP9NI0553JMK2.html",
+      "pub_time": "2026-11-01 07:43",
+      "fetched_at": "2026-11-01T08:00:07.802074"
     }
   },
   "last_check": {
-    "time": "2026-10-31T08:03:00.787262",
+    "time": "2026-11-01T08:00:02.787778",
     "saved": 2,
     "errors": 0
   }

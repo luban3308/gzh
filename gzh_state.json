@@ -1109,10 +1109,22 @@
       "url": "https://www.163.com/dy/article/LB485LBR0553JMK2.html",
       "pub_time": "2026-11-07 07:46",
       "fetched_at": "2026-11-07T11:02:24.633298"
+    },
+    "https://www.163.com/dy/article/LB77B24L0553JMK2.html": {
+      "title": "这世上只有一种职业不会消失，那就是骗子",
+      "url": "https://www.163.com/dy/article/LB77B24L0553JMK2.html",
+      "pub_time": "2026-11-08 11:30",
+      "fetched_at": "2026-11-08T08:15:33.768230"
+    },
+    "https://www.163.com/dy/article/LB6RFQNI0553JMK2.html": {
+      "title": "宝妈和货车司机，通过AI短剧抢了横漂的饭碗",
+      "url": "https://www.163.com/dy/article/LB6RFQNI0553JMK2.html",
+      "pub_time": "2026-11-08 08:01",
+      "fetched_at": "2026-11-08T08:15:34.706202"
     }
   },
   "last_check": {
-    "time": "2026-11-07T11:02:18.914983",
+    "time": "2026-11-08T08:15:29.597258",
     "saved": 2,
     "errors": 0
   }

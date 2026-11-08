@@ -1,110 +1,131 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "repos": [
+    {
+      "name": "zed-industries//zed",
+      "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "lang": "Rust",
+      "stars": "93,843",
+      "today": "306 stars today"
+    },
     {
       "name": "NVIDIA//auto-ontology",
       "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "lang": "Python",
-      "stars": "7,874",
-      "today": "2,679 stars today"
+      "stars": "9,342",
+      "today": "2,015 stars today"
     },
     {
-      "name": "mattpocock//skills",
-      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "lang": "Shell",
-      "stars": "315,716",
-      "today": "2,071 stars today"
+      "name": "rails//rails",
+      "desc": "Ruby on Rails",
+      "lang": "Ruby",
+      "stars": "59,059",
+      "today": "142 stars today"
     },
     {
-      "name": "garrytan//gstack",
-      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "lang": "TypeScript",
-      "stars": "140,154",
-      "today": "612 stars today"
-    },
-    {
-      "name": "Usagi-org//ai-goofish-monitor",
-      "desc": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "lang": "Python",
-      "stars": "17,926",
-      "today": "240 stars today"
-    },
-    {
-      "name": "D4Vinci//Scrapling",
-      "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
-      "lang": "Python",
-      "stars": "98,330",
-      "today": "1,655 stars today"
-    },
-    {
-      "name": "vercel-labs//agent-desktop",
-      "desc": "Computer use CLI for AI agents",
-      "lang": "Rust",
-      "stars": "17,318",
-      "today": "2,173 stars today"
-    },
-    {
-      "name": "max-sixty//worktrunk",
-      "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "lang": "Rust",
-      "stars": "11,646",
-      "today": "546 stars today"
-    },
-    {
-      "name": "lz4//lz4",
-      "desc": "Extremely Fast Compression algorithm",
+      "name": "mpv-player//mpv",
+      "desc": "🎥 Command line media player",
       "lang": "C",
-      "stars": "12,466",
-      "today": "23 stars today"
+      "stars": "37,936",
+      "today": "37 stars today"
+    },
+    {
+      "name": "rust-lang//rust",
+      "desc": "Empowering everyone to build reliable and efficient software.",
+      "lang": "Rust",
+      "stars": "121,529",
+      "today": "192 stars today"
+    },
+    {
+      "name": "react//react",
+      "desc": "The library for web and native user interfaces.",
+      "lang": "JavaScript",
+      "stars": "252,309",
+      "today": "248 stars today"
+    },
+    {
+      "name": "angular//angular",
+      "desc": "Deliver web apps with confidence 🚀",
+      "lang": "TypeScript",
+      "stars": "101,424",
+      "today": "135 stars today"
+    },
+    {
+      "name": "symfony//symfony",
+      "desc": "The Symfony PHP framework",
+      "lang": "PHP",
+      "stars": "31,478",
+      "today": "128 stars today"
+    },
+    {
+      "name": "prometheus//prometheus",
+      "desc": "The Prometheus monitoring system and time series database.",
+      "lang": "Go",
+      "stars": "67,242",
+      "today": "148 stars today"
     },
     {
       "name": "google//skills",
       "desc": "Agent Skills for Google products and technologies",
       "lang": "Python",
-      "stars": "22,517",
-      "today": "211 stars today"
+      "stars": "22,958",
+      "today": "534 stars today"
     },
     {
-      "name": "vercel-labs//agent-browser",
-      "desc": "Browser automation CLI for AI agents",
+      "name": "microsoft//vscode",
+      "desc": "Visual Studio Code",
+      "lang": "TypeScript",
+      "stars": "195,083",
+      "today": "301 stars today"
+    },
+    {
+      "name": "lz4//lz4",
+      "desc": "Extremely Fast Compression algorithm",
+      "lang": "C",
+      "stars": "12,649",
+      "today": "315 stars today"
+    },
+    {
+      "name": "nushell//nushell",
+      "desc": "A new type of shell",
       "lang": "Rust",
-      "stars": "46,089",
-      "today": "150 stars today"
+      "stars": "41,023",
+      "today": "131 stars today"
     },
     {
-      "name": "scenario-labs//skills",
-      "desc": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "lang": "Python",
-      "stars": "3,241",
-      "today": "667 stars today"
+      "name": "etcd-io//etcd",
+      "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "lang": "Go",
+      "stars": "52,643",
+      "today": "128 stars today"
     },
     {
-      "name": "ConardLi//garden-skills",
-      "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "name": "openssl//openssl",
+      "desc": "General purpose TLS and crypto library",
+      "lang": "C",
+      "stars": "31,334",
+      "today": "26 stars today"
+    },
+    {
+      "name": "mattpocock//skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars": "316,949",
+      "today": "2,070 stars today"
+    },
+    {
+      "name": "cloudflare//security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "lang": "JavaScript",
-      "stars": "14,324",
-      "today": "175 stars today"
+      "stars": "64,456",
+      "today": "2,548 stars today"
     },
     {
-      "name": "microsoft//VibeVoice",
-      "desc": "Open-Source Frontier Voice AI",
-      "lang": "Python",
-      "stars": "56,226",
-      "today": "223 stars today"
-    },
-    {
-      "name": "floci-io//floci",
-      "desc": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "lang": "Java",
-      "stars": "30,602",
-      "today": "779 stars today"
-    },
-    {
-      "name": "JiaFeiMiao-K-Cat//DiscImageStudio",
-      "desc": "",
-      "lang": "C#",
-      "stars": "7,463",
-      "today": "984 stars today"
+      "name": "astral-sh//ruff",
+      "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+      "lang": "Rust",
+      "stars": "50,757",
+      "today": "169 stars today"
     }
   ]
 }

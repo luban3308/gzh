@@ -1,131 +1,110 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "repos": [
     {
-      "name": "zed-industries//zed",
-      "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "name": "vercel-labs//agent-browser",
+      "desc": "Browser automation CLI for AI agents",
       "lang": "Rust",
-      "stars": "93,843",
-      "today": "306 stars today"
-    },
-    {
-      "name": "NVIDIA//auto-ontology",
-      "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "lang": "Python",
-      "stars": "9,342",
-      "today": "2,015 stars today"
-    },
-    {
-      "name": "rails//rails",
-      "desc": "Ruby on Rails",
-      "lang": "Ruby",
-      "stars": "59,059",
-      "today": "142 stars today"
-    },
-    {
-      "name": "mpv-player//mpv",
-      "desc": "🎥 Command line media player",
-      "lang": "C",
-      "stars": "37,936",
-      "today": "37 stars today"
-    },
-    {
-      "name": "rust-lang//rust",
-      "desc": "Empowering everyone to build reliable and efficient software.",
-      "lang": "Rust",
-      "stars": "121,529",
-      "today": "192 stars today"
-    },
-    {
-      "name": "react//react",
-      "desc": "The library for web and native user interfaces.",
-      "lang": "JavaScript",
-      "stars": "252,309",
-      "today": "248 stars today"
-    },
-    {
-      "name": "angular//angular",
-      "desc": "Deliver web apps with confidence 🚀",
-      "lang": "TypeScript",
-      "stars": "101,424",
-      "today": "135 stars today"
-    },
-    {
-      "name": "symfony//symfony",
-      "desc": "The Symfony PHP framework",
-      "lang": "PHP",
-      "stars": "31,478",
-      "today": "128 stars today"
-    },
-    {
-      "name": "prometheus//prometheus",
-      "desc": "The Prometheus monitoring system and time series database.",
-      "lang": "Go",
-      "stars": "67,242",
-      "today": "148 stars today"
-    },
-    {
-      "name": "google//skills",
-      "desc": "Agent Skills for Google products and technologies",
-      "lang": "Python",
-      "stars": "22,958",
-      "today": "534 stars today"
-    },
-    {
-      "name": "microsoft//vscode",
-      "desc": "Visual Studio Code",
-      "lang": "TypeScript",
-      "stars": "195,083",
-      "today": "301 stars today"
-    },
-    {
-      "name": "lz4//lz4",
-      "desc": "Extremely Fast Compression algorithm",
-      "lang": "C",
-      "stars": "12,649",
-      "today": "315 stars today"
-    },
-    {
-      "name": "nushell//nushell",
-      "desc": "A new type of shell",
-      "lang": "Rust",
-      "stars": "41,023",
-      "today": "131 stars today"
-    },
-    {
-      "name": "etcd-io//etcd",
-      "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "lang": "Go",
-      "stars": "52,643",
-      "today": "128 stars today"
-    },
-    {
-      "name": "openssl//openssl",
-      "desc": "General purpose TLS and crypto library",
-      "lang": "C",
-      "stars": "31,334",
-      "today": "26 stars today"
-    },
-    {
-      "name": "mattpocock//skills",
-      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "lang": "Shell",
-      "stars": "316,949",
-      "today": "2,070 stars today"
+      "stars": "47,027",
+      "today": "190 stars today"
     },
     {
       "name": "cloudflare//security-audit-skill",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "lang": "JavaScript",
-      "stars": "64,456",
-      "today": "2,548 stars today"
+      "stars": "66,056",
+      "today": "2,085 stars today"
+    },
+    {
+      "name": "google//skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars": "23,532",
+      "today": "443 stars today"
+    },
+    {
+      "name": "mattpocock//skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars": "317,951",
+      "today": "1,100 stars today"
+    },
+    {
+      "name": "anthropics//skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars": "188,949",
+      "today": "390 stars today"
+    },
+    {
+      "name": "meta//astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars": "14,776",
+      "today": "96 stars today"
+    },
+    {
+      "name": "prometheus//prometheus",
+      "desc": "The Prometheus monitoring system and time series database.",
+      "lang": "Go",
+      "stars": "67,491",
+      "today": "322 stars today"
+    },
+    {
+      "name": "sherlock-project//sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "lang": "Python",
+      "stars": "101,125",
+      "today": "1,766 stars today"
+    },
+    {
+      "name": "milind-soni//OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars": "17,328",
+      "today": "1,955 stars today"
     },
     {
       "name": "astral-sh//ruff",
       "desc": "An extremely fast Python linter and code formatter, written in Rust.",
       "lang": "Rust",
-      "stars": "50,757",
-      "today": "169 stars today"
+      "stars": "51,031",
+      "today": "350 stars today"
+    },
+    {
+      "name": "tailwindlabs//tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "lang": "TypeScript",
+      "stars": "98,576",
+      "today": "122 stars today"
+    },
+    {
+      "name": "mbillow//localthings",
+      "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "lang": "Python",
+      "stars": "1,101",
+      "today": "186 stars today"
+    },
+    {
+      "name": "zed-industries//zed",
+      "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "lang": "Rust",
+      "stars": "94,358",
+      "today": "1,114 stars today"
+    },
+    {
+      "name": "ranxianglei//billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "lang": "TypeScript",
+      "stars": "4,731",
+      "today": "191 stars today"
+    },
+    {
+      "name": "dsx-ai-factory//nvke",
+      "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "lang": "Go",
+      "stars": "619",
+      "today": "123 stars today"
     }
   ]
 }

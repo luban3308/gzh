@@ -1,110 +1,68 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "repos": [
-    {
-      "name": "vercel-labs//agent-browser",
-      "desc": "Browser automation CLI for AI agents",
-      "lang": "Rust",
-      "stars": "47,027",
-      "today": "190 stars today"
-    },
-    {
-      "name": "cloudflare//security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "lang": "JavaScript",
-      "stars": "66,056",
-      "today": "2,085 stars today"
-    },
-    {
-      "name": "google//skills",
-      "desc": "Agent Skills for Google products and technologies",
-      "lang": "Python",
-      "stars": "23,532",
-      "today": "443 stars today"
-    },
-    {
-      "name": "mattpocock//skills",
-      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "lang": "Shell",
-      "stars": "317,951",
-      "today": "1,100 stars today"
-    },
-    {
-      "name": "anthropics//skills",
-      "desc": "Public repository for Agent Skills",
-      "lang": "Python",
-      "stars": "188,949",
-      "today": "390 stars today"
-    },
-    {
-      "name": "meta//astryx",
-      "desc": "An open source design system that's fully customizable and agent ready",
-      "lang": "TypeScript",
-      "stars": "14,776",
-      "today": "96 stars today"
-    },
-    {
-      "name": "prometheus//prometheus",
-      "desc": "The Prometheus monitoring system and time series database.",
-      "lang": "Go",
-      "stars": "67,491",
-      "today": "322 stars today"
-    },
     {
       "name": "sherlock-project//sherlock",
       "desc": "Hunt down social media accounts by username across social networks",
       "lang": "Python",
-      "stars": "101,125",
-      "today": "1,766 stars today"
-    },
-    {
-      "name": "milind-soni//OpenMausBot",
-      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "lang": "TypeScript",
-      "stars": "17,328",
-      "today": "1,955 stars today"
-    },
-    {
-      "name": "astral-sh//ruff",
-      "desc": "An extremely fast Python linter and code formatter, written in Rust.",
-      "lang": "Rust",
-      "stars": "51,031",
-      "today": "350 stars today"
-    },
-    {
-      "name": "tailwindlabs//tailwindcss",
-      "desc": "A utility-first CSS framework for rapid UI development.",
-      "lang": "TypeScript",
-      "stars": "98,576",
-      "today": "122 stars today"
-    },
-    {
-      "name": "mbillow//localthings",
-      "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "lang": "Python",
-      "stars": "1,101",
-      "today": "186 stars today"
-    },
-    {
-      "name": "zed-industries//zed",
-      "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "lang": "Rust",
-      "stars": "94,358",
-      "today": "1,114 stars today"
-    },
-    {
-      "name": "ranxianglei//billion-context",
-      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "lang": "TypeScript",
-      "stars": "4,731",
-      "today": "191 stars today"
+      "stars": "104,813",
+      "today": "2,373 stars today"
     },
     {
       "name": "dsx-ai-factory//nvke",
       "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "lang": "Go",
-      "stars": "619",
-      "today": "123 stars today"
+      "stars": "942",
+      "today": "345 stars today"
+    },
+    {
+      "name": "milind-soni//OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars": "18,780",
+      "today": "1,439 stars today"
+    },
+    {
+      "name": "anthropics//claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "lang": "Python",
+      "stars": "19,604",
+      "today": "32 stars today"
+    },
+    {
+      "name": "vercel-labs//agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars": "47,901",
+      "today": "815 stars today"
+    },
+    {
+      "name": "meta//astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars": "17,686",
+      "today": "875 stars today"
+    },
+    {
+      "name": "anthropics//skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars": "189,935",
+      "today": "792 stars today"
+    },
+    {
+      "name": "google-deepmind//mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "lang": "C++",
+      "stars": "16,579",
+      "today": "41 stars today"
+    },
+    {
+      "name": "ranxianglei//billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "lang": "TypeScript",
+      "stars": "5,398",
+      "today": "460 stars today"
     }
   ]
 }

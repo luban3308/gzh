@@ -1145,10 +1145,22 @@
       "url": "https://www.163.com/dy/article/LBC04VGK0553JMK2.html",
       "pub_time": "2026-11-10 07:59",
       "fetched_at": "2026-11-10T08:09:45.296785"
+    },
+    "https://www.163.com/dy/article/LBEUSGTS0553JMK2.html": {
+      "title": "赚了500万买房都赔光，都怪没娶对老婆喽？",
+      "url": "https://www.163.com/dy/article/LBEUSGTS0553JMK2.html",
+      "pub_time": "2026-11-11 11:31",
+      "fetched_at": "2026-11-11T08:00:06.609885"
+    },
+    "https://www.163.com/dy/article/LBEUKUIO0553JMK2.html": {
+      "title": "有了AI做老师，难道的我孩子还不相当于带着张三丰去踢馆么？",
+      "url": "https://www.163.com/dy/article/LBEUKUIO0553JMK2.html",
+      "pub_time": "2026-11-11 11:29",
+      "fetched_at": "2026-11-11T08:00:07.470339"
     }
   },
   "last_check": {
-    "time": "2026-11-10T08:09:40.427176",
+    "time": "2026-11-11T08:00:02.689395",
     "saved": 2,
     "errors": 0
   }

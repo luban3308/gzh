@@ -1,82 +1,75 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-12",
   "repos": [
-    {
-      "name": "anthropics//skills",
-      "desc": "Public repository for Agent Skills",
-      "lang": "Python",
-      "stars": "191,411",
-      "today": "1,038 stars today"
-    },
     {
       "name": "meta//astryx",
       "desc": "An open source design system that's fully customizable and agent ready",
       "lang": "TypeScript",
-      "stars": "20,856",
-      "today": "3,278 stars today"
-    },
-    {
-      "name": "sherlock-project//sherlock",
-      "desc": "Hunt down social media accounts by username across social networks",
-      "lang": "Python",
-      "stars": "107,744",
-      "today": "4,267 stars today"
-    },
-    {
-      "name": "google-deepmind//mujoco",
-      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "lang": "C++",
-      "stars": "17,053",
-      "today": "574 stars today"
-    },
-    {
-      "name": "anthropics//claude-quickstarts",
-      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "lang": "Python",
-      "stars": "20,159",
-      "today": "551 stars today"
-    },
-    {
-      "name": "garrytan//gbrain",
-      "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "lang": "TypeScript",
-      "stars": "32,308",
-      "today": "216 stars today"
-    },
-    {
-      "name": "vercel-labs//agent-browser",
-      "desc": "Browser automation CLI for AI agents",
-      "lang": "Rust",
-      "stars": "48,715",
-      "today": "916 stars today"
-    },
-    {
-      "name": "ruvnet//RuView",
-      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "lang": "Rust",
-      "stars": "103,661",
-      "today": "172 stars today"
+      "stars": "25,528",
+      "today": "2,776 stars today"
     },
     {
       "name": "ZhuLinsen//daily_stock_analysis",
       "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "lang": "Python",
-      "stars": "69,234",
-      "today": "506 stars today"
+      "stars": "70,694",
+      "today": "278 stars today"
+    },
+    {
+      "name": "GoogleChrome//modern-web-guidance-src",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars": "2,004",
+      "today": "159 stars today"
+    },
+    {
+      "name": "shadcn//improve",
+      "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "lang": "",
+      "stars": "11,166",
+      "today": "361 stars today"
+    },
+    {
+      "name": "addyosmani//agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars": "116,161",
+      "today": "787 stars today"
+    },
+    {
+      "name": "vercel-labs//agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars": "50,045",
+      "today": "708 stars today"
+    },
+    {
+      "name": "we-promise//sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "lang": "Ruby",
+      "stars": "13,208",
+      "today": "1,078 stars today"
     },
     {
       "name": "homeassistant-ai//ha-mcp",
       "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "lang": "Python",
-      "stars": "6,170",
-      "today": "31 stars today"
+      "stars": "7,538",
+      "today": "645 stars today"
     },
     {
-      "name": "milind-soni//OpenMausBot",
-      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "name": "openai//codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
       "lang": "TypeScript",
-      "stars": "20,078",
-      "today": "1,587 stars today"
+      "stars": "11,936",
+      "today": "52 stars today"
+    },
+    {
+      "name": "TheAlgorithms//Java",
+      "desc": "All Algorithms implemented in Java",
+      "lang": "Java",
+      "stars": "67,144",
+      "today": "51 stars today"
     }
   ]
 }

@@ -1181,10 +1181,22 @@
       "url": "https://www.163.com/dy/article/LBJOEEI90553JMK2.html",
       "pub_time": "2026-11-13 08:16",
       "fetched_at": "2026-11-13T08:04:35.505103"
+    },
+    "https://www.163.com/dy/article/LBMQO0JB0553JMK2.html": {
+      "title": "为啥大部分能成功的老板，都生性凉薄？",
+      "url": "https://www.163.com/dy/article/LBMQO0JB0553JMK2.html",
+      "pub_time": "2026-11-14 12:55",
+      "fetched_at": "2026-11-14T11:03:32.016819"
+    },
+    "https://www.163.com/dy/article/LBMDBI930553JMK2.html": {
+      "title": "不带着穿越视角，如何才能第一时间发现张国焘的错误？",
+      "url": "https://www.163.com/dy/article/LBMDBI930553JMK2.html",
+      "pub_time": "2026-11-14 08:58",
+      "fetched_at": "2026-11-14T11:03:32.839520"
     }
   },
   "last_check": {
-    "time": "2026-11-13T08:04:30.302809",
+    "time": "2026-11-14T11:03:28.151914",
     "saved": 2,
     "errors": 0
   }

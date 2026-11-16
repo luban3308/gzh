@@ -1205,10 +1205,22 @@
       "url": "https://www.163.com/dy/article/LBOTH2VC0553JMK2.html",
       "pub_time": "2026-11-15 08:22",
       "fetched_at": "2026-11-15T16:03:02.041509"
+    },
+    "https://www.163.com/dy/article/LBRPPJ640553JMK2.html": {
+      "title": "年轻人的痛苦，不是不知道该选啥，而是没有一天为自己活过",
+      "url": "https://www.163.com/dy/article/LBRPPJ640553JMK2.html",
+      "pub_time": "2026-11-16 11:20",
+      "fetched_at": "2026-11-16T10:56:06.142146"
+    },
+    "https://www.163.com/dy/article/LBREH67F0553JMK2.html": {
+      "title": "发财的秘诀不是抄大佬作业，而是要做到抄不像而非抄得像",
+      "url": "https://www.163.com/dy/article/LBREH67F0553JMK2.html",
+      "pub_time": "2026-11-16 08:00",
+      "fetched_at": "2026-11-16T10:56:06.930911"
     }
   },
   "last_check": {
-    "time": "2026-11-15T16:02:57.037524",
+    "time": "2026-11-16T10:56:02.453955",
     "saved": 2,
     "errors": 0
   }

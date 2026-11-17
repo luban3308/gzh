@@ -1217,10 +1217,22 @@
       "url": "https://www.163.com/dy/article/LBREH67F0553JMK2.html",
       "pub_time": "2026-11-16 08:00",
       "fetched_at": "2026-11-16T10:56:06.930911"
+    },
+    "https://www.163.com/dy/article/LBUCMMUB0553JMK2.html": {
+      "title": "改变自己的是神？不，能不看AI短剧的，就是未来的神",
+      "url": "https://www.163.com/dy/article/LBUCMMUB0553JMK2.html",
+      "pub_time": "2026-11-17 11:28",
+      "fetched_at": "2026-11-17T11:02:43.581622"
+    },
+    "https://www.163.com/dy/article/LBU0BG200553JMK2.html": {
+      "title": "越来越多的企业，既不愿招实习生，也不愿招岁数大的",
+      "url": "https://www.163.com/dy/article/LBU0BG200553JMK2.html",
+      "pub_time": "2026-11-17 07:49",
+      "fetched_at": "2026-11-17T11:02:44.531177"
     }
   },
   "last_check": {
-    "time": "2026-11-16T10:56:02.453955",
+    "time": "2026-11-17T11:02:39.362649",
     "saved": 2,
     "errors": 0
   }

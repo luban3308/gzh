@@ -1253,10 +1253,22 @@
       "url": "https://www.163.com/dy/article/LC3HL10I0553JMK2.html",
       "pub_time": "2026-11-19 11:24",
       "fetched_at": "2026-11-20T11:02:21.741588"
+    },
+    "https://www.163.com/dy/article/LC8LN0SJ0553JMK2.html": {
+      "title": "慌啥子嘛，反正90后都被叫爷爷奶奶了",
+      "url": "https://www.163.com/dy/article/LC8LN0SJ0553JMK2.html",
+      "pub_time": "2026-11-21 11:13",
+      "fetched_at": "2026-11-21T11:02:46.082074"
+    },
+    "https://www.163.com/dy/article/LC89AFM90553JMK2.html": {
+      "title": "黄仁勋也会下岗，正如精通CUDA也会被取代",
+      "url": "https://www.163.com/dy/article/LC89AFM90553JMK2.html",
+      "pub_time": "2026-11-21 07:36",
+      "fetched_at": "2026-11-21T11:02:47.115039"
     }
   },
   "last_check": {
-    "time": "2026-11-20T11:02:17.418085",
+    "time": "2026-11-21T11:02:41.709836",
     "saved": 2,
     "errors": 0
   }

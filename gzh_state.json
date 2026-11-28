@@ -1331,11 +1331,23 @@
       "url": "https://www.163.com/dy/article/LCLIHMJQ0553JMK2.html",
       "pub_time": "2026-11-26 11:54",
       "fetched_at": "2026-11-27T11:03:40.353867"
+    },
+    "https://www.163.com/dy/article/LCQMA0P30553JMK2.html": {
+      "title": "人需要多少钱，才能拥有面对生活的底气？",
+      "url": "https://www.163.com/dy/article/LCQMA0P30553JMK2.html",
+      "pub_time": "2026-11-28 11:11",
+      "fetched_at": "2026-11-28T11:03:39.607999"
+    },
+    "https://www.163.com/dy/article/LCQBFQHH0553JMK2.html": {
+      "title": "如果说学历教育已经被冲垮了，是否投资教育正当其时？",
+      "url": "https://www.163.com/dy/article/LCQBFQHH0553JMK2.html",
+      "pub_time": "2026-11-28 08:01",
+      "fetched_at": "2026-11-28T11:03:40.546911"
     }
   },
   "last_check": {
-    "time": "2026-11-27T11:03:33.829685",
-    "saved": 3,
+    "time": "2026-11-28T11:03:35.190882",
+    "saved": 2,
     "errors": 0
   }
 }
